@@ -1,0 +1,1001 @@
+brokered_by,status,price,bed,bath,acre_lot,street,city,state,zip_code,house_size,prev_sold_date,price_m2
+Compass,lista para la venta,1538512,3,1,1.68,Calle Mayor 189,Málaga,Galicia,24958,493,2024-08-22,3120.7139959432047
+RE/MAX,lista para la venta,625074,3,3,0.44,Calle Mayor 77,Bilbao,Cataluña,10196,165,2023-06-18,3788.327272727273
+Realty One,lista para construir,983528,2,2,1.18,Plaza del Sol 167,Las Palmas,Andalucía,60752,388,2023-12-10,2534.865979381443
+Coldwell Banker,lista para construir,797981,6,4,1.66,Avenida de la Constitución 103,Murcia,Galicia,95320,255,2023-11-04,3129.337254901961
+RE/MAX,lista para la venta,850241,3,3,1.09,Plaza del Sol 18,Córdoba,Baleares,28973,369,2024-10-29,2304.1761517615178
+Coldwell Banker,lista para la venta,747859,1,2,1.05,Paseo de la Castellana 183,Vigo,Valencia,87863,290,2024-09-17,2578.8241379310343
+Century 21,lista para construir,1028352,3,1,1.82,Paseo de la Castellana 145,Barcelona,Canarias,31954,214,2025-02-15,4805.383177570094
+Keller Williams,lista para la venta,637332,2,2,1.27,Calle Gran Vía 114,Murcia,Asturias,60892,253,2023-07-31,2519.098814229249
+Keller Williams,lista para la venta,660882,4,1,0.69,Plaza España 101,Las Palmas,Canarias,56327,243,2024-03-22,2719.679012345679
+Keller Williams,lista para construir,969351,4,4,0.48,Paseo de la Castellana 16,Valladolid,Cataluña,63126,381,2023-06-21,2544.228346456693
+Sotheby's,lista para construir,457990,5,4,0.52,Plaza del Sol 124,Málaga,Galicia,53303,105,2023-11-01,4361.809523809524
+Compass,lista para construir,490708,1,1,1.38,Plaza España 108,Málaga,Aragón,99368,142,2024-05-20,3455.6901408450703
+Keller Williams,lista para construir,338609,2,3,0.34,Plaza del Sol 156,Bilbao,País Vasco,13188,55,2023-06-19,6156.527272727273
+Compass,lista para construir,1056420,1,2,1.2,Plaza del Sol 118,Alicante,Cataluña,74095,471,2023-10-18,2242.9299363057326
+Compass,lista para construir,334903,5,3,0.77,Paseo de la Castellana 169,Vigo,Baleares,46797,83,2024-08-29,4034.975903614458
+Coldwell Banker,lista para la venta,1306873,1,2,1.62,Calle Mayor 36,Bilbao,Galicia,96103,381,2024-06-17,3430.1128608923887
+Compass,lista para construir,863703,4,4,1.66,Calle Mayor 5,Las Palmas,Castilla-La Mancha,43062,299,2023-11-02,2888.638795986622
+Compass,lista para construir,1533947,5,3,0.79,Avenida de la Constitución 104,Valencia,Madrid,24764,469,2024-07-18,3270.675906183369
+Keller Williams,lista para construir,654510,2,1,0.5,Calle Serrano 147,Barcelona,Canarias,39966,144,2024-12-19,4545.208333333333
+Sotheby's,lista para construir,829217,4,3,1.85,Calle Gran Vía 166,Vigo,Asturias,18122,320,2023-06-05,2591.303125
+eXp Realty,lista para la venta,1103717,5,3,0.34,Calle Alcalá 47,Vigo,Galicia,95355,436,2024-12-16,2531.461009174312
+Keller Williams,lista para la venta,930719,6,4,1.82,Calle Mayor 13,Gijón,Andalucía,61148,319,2024-10-02,2917.614420062696
+Sotheby's,lista para construir,441364,5,4,0.91,Ronda de Valencia 144,Palma,Murcia,42118,130,2024-01-25,3395.107692307692
+eXp Realty,lista para construir,954529,1,1,1.76,Ronda de Valencia 194,Barcelona,Andalucía,45410,176,2023-09-17,5423.460227272727
+Coldwell Banker,lista para construir,466482,5,4,0.91,Avenida de la Constitución 136,Valencia,Extremadura,67557,89,2025-04-02,5241.3707865168535
+RE/MAX,lista para la venta,591339,2,3,1.29,Avenida Diagonal 8,Córdoba,Castilla-La Mancha,61321,174,2024-01-22,3398.5
+Berkshire Hathaway,lista para construir,976832,3,1,1.66,Calle Serrano 142,Málaga,Asturias,66157,302,2023-08-05,3234.543046357616
+Keller Williams,lista para la venta,954481,6,3,0.24,Paseo de la Castellana 48,Sevilla,Andalucía,32533,329,2023-08-07,2901.158054711246
+RE/MAX,lista para construir,413991,1,1,1.17,Avenida Diagonal 157,Palma,Navarra,61345,143,2025-01-15,2895.041958041958
+Compass,lista para la venta,1114079,4,2,0.36,Plaza España 94,Valladolid,Navarra,90438,473,2024-07-28,2355.3467230443975
+eXp Realty,lista para la venta,1096274,2,1,0.17,Calle Mayor 193,Málaga,Murcia,46739,371,2024-12-17,2954.9164420485176
+Century 21,lista para construir,1093124,1,1,1.04,Ronda de Valencia 30,Palma,País Vasco,72561,495,2024-10-24,2208.331313131313
+Keller Williams,lista para construir,1100681,6,2,1.17,Paseo de la Castellana 67,Murcia,Aragón,69611,425,2024-06-10,2589.8376470588237
+eXp Realty,lista para la venta,507130,1,1,1.35,Paseo de la Castellana 25,Zaragoza,Murcia,74017,185,2025-04-13,2741.2432432432433
+Compass,lista para la venta,614526,6,2,1.53,Calle Mayor 171,Barcelona,Navarra,27510,86,2024-02-21,7145.6511627906975
+Compass,lista para construir,834881,3,1,1.28,Plaza del Sol 141,Alicante,Madrid,61154,321,2024-06-21,2600.8753894080996
+eXp Realty,lista para la venta,974541,6,2,0.78,Avenida de la Constitución 138,Valencia,Galicia,26783,291,2025-01-02,3348.938144329897
+Compass,lista para construir,1330316,5,3,1.44,Plaza del Sol 103,Sevilla,Extremadura,32909,486,2024-08-07,2737.275720164609
+Keller Williams,lista para la venta,1150772,3,1,1.21,Calle Alcalá 127,Vigo,Baleares,36121,460,2025-01-25,2501.6782608695653
+Coldwell Banker,lista para la venta,912729,1,2,0.76,Calle Alcalá 24,Vigo,Baleares,95826,382,2024-07-09,2389.3429319371726
+Realty One,lista para la venta,1156475,5,4,0.75,Calle Serrano 27,Córdoba,Canarias,47851,476,2024-10-06,2429.5693277310925
+Keller Williams,lista para construir,804323,2,3,1.68,Calle Serrano 12,Córdoba,Canarias,86220,277,2023-07-03,2903.693140794224
+Century 21,lista para construir,434712,3,1,0.21,Calle Serrano 98,Valladolid,Castilla y León,30198,150,2023-11-07,2898.08
+Compass,lista para la venta,1074452,3,2,1.46,Avenida Diagonal 144,Madrid,Andalucía,89538,195,2023-12-20,5510.010256410256
+Realty One,lista para construir,982879,1,1,1.94,Plaza España 175,Bilbao,Castilla-La Mancha,41866,253,2023-07-26,3884.897233201581
+Berkshire Hathaway,lista para la venta,453522,6,1,1.37,Avenida de la Constitución 59,Zaragoza,Baleares,14844,141,2023-11-11,3216.468085106383
+Keller Williams,lista para construir,714323,4,3,1.15,Calle Mayor 116,Vigo,Galicia,14588,277,2023-08-10,2578.783393501805
+RE/MAX,lista para construir,847599,3,4,0.78,Ronda de Valencia 121,Bilbao,Galicia,95827,209,2023-12-12,4055.497607655502
+Berkshire Hathaway,lista para la venta,1117415,2,1,1.17,Calle Mayor 136,Málaga,Castilla y León,52950,398,2024-08-19,2807.575376884422
+Berkshire Hathaway,lista para la venta,1188086,4,1,1.86,Plaza España 73,Zaragoza,Navarra,54684,468,2024-02-11,2538.6452991452993
+eXp Realty,lista para construir,968795,2,3,1.86,Calle Serrano 115,Palma,Castilla y León,59099,374,2024-02-15,2590.360962566845
+Keller Williams,lista para construir,1544177,4,2,1.59,Plaza del Sol 19,Madrid,Cataluña,99382,289,2023-10-25,5343.173010380623
+Compass,lista para la venta,664700,2,2,0.35,Calle Mayor 73,Bilbao,Galicia,15359,169,2023-12-05,3933.1360946745563
+Coldwell Banker,lista para construir,990095,3,2,0.12,Ronda de Valencia 22,Valladolid,Murcia,58864,463,2025-03-18,2138.4341252699783
+Keller Williams,lista para construir,1056165,1,2,0.26,Avenida de la Constitución 155,Vigo,Galicia,51194,476,2024-08-28,2218.834033613445
+Keller Williams,lista para construir,1798691,6,1,0.51,Calle Mayor 66,Barcelona,Canarias,46945,391,2024-08-01,4600.23273657289
+Century 21,lista para la venta,791773,4,1,1.37,Calle Alcalá 78,Gijón,Canarias,71519,274,2023-09-28,2889.682481751825
+Keller Williams,lista para la venta,389641,2,2,1.93,Calle Gran Vía 193,Las Palmas,Cataluña,43554,92,2024-10-24,4235.228260869565
+Berkshire Hathaway,lista para la venta,1450019,6,3,1.42,Calle Mayor 33,Madrid,Valencia,89619,251,2023-09-23,5776.9681274900395
+Keller Williams,lista para construir,725310,4,4,0.34,Calle Serrano 25,Bilbao,Cataluña,34465,158,2024-02-21,4590.569620253164
+Berkshire Hathaway,lista para la venta,952271,1,1,1.63,Plaza del Sol 155,Palma,Asturias,42547,397,2025-04-24,2398.667506297229
+RE/MAX,lista para construir,590582,5,1,0.38,Calle Serrano 175,Vigo,Murcia,15421,184,2024-08-22,3209.6847826086955
+Coldwell Banker,lista para la venta,340370,4,3,0.27,Calle Gran Vía 40,Málaga,Murcia,20497,88,2024-06-25,3867.840909090909
+eXp Realty,lista para la venta,724544,4,1,1.98,Paseo de la Castellana 173,Córdoba,Castilla-La Mancha,90828,234,2024-09-22,3096.3418803418804
+Berkshire Hathaway,lista para la venta,514318,5,4,0.13,Calle Mayor 101,Zaragoza,Madrid,47211,124,2025-01-11,4147.725806451613
+Sotheby's,lista para construir,387142,2,2,1.5,Ronda de Valencia 174,Córdoba,Extremadura,82701,118,2024-11-25,3280.864406779661
+Coldwell Banker,lista para la venta,991263,5,2,1.46,Calle Serrano 25,Valladolid,Castilla-La Mancha,49339,404,2023-11-08,2453.621287128713
+Coldwell Banker,lista para construir,943469,3,4,0.54,Plaza España 56,Murcia,Navarra,75096,372,2023-06-23,2536.206989247312
+Realty One,lista para construir,1298765,2,2,0.82,Avenida Diagonal 95,Valencia,Galicia,72007,393,2024-01-08,3304.7455470737914
+Keller Williams,lista para la venta,459762,1,2,0.95,Calle Alcalá 31,Gijón,Castilla y León,59555,184,2023-12-05,2498.7065217391305
+Compass,lista para construir,613188,5,3,0.16,Paseo de la Castellana 158,Vigo,Aragón,67085,195,2023-10-26,3144.5538461538463
+Sotheby's,lista para construir,1511431,6,1,0.82,Paseo de la Castellana 61,Bilbao,Madrid,16060,429,2025-03-22,3523.1491841491843
+Berkshire Hathaway,lista para la venta,578185,5,4,0.26,Calle Serrano 41,Alicante,Navarra,72108,180,2025-02-04,3212.1388888888887
+Century 21,lista para la venta,972470,5,2,0.49,Paseo de la Castellana 187,Córdoba,Navarra,11291,394,2024-01-07,2468.1979695431473
+Realty One,lista para la venta,646699,2,2,0.14,Avenida de la Constitución 35,Vigo,Navarra,42328,243,2024-09-02,2661.312757201646
+Compass,lista para la venta,1079798,3,2,1.79,Avenida de la Constitución 46,Vigo,Canarias,63772,427,2024-03-04,2528.8009367681498
+Sotheby's,lista para construir,1232231,2,2,0.57,Avenida de la Constitución 36,Valencia,Cataluña,68678,381,2025-03-03,3234.202099737533
+Berkshire Hathaway,lista para construir,930955,2,3,0.94,Calle Alcalá 33,Málaga,Galicia,14434,309,2024-04-17,3012.7993527508092
+Coldwell Banker,lista para construir,404085,1,1,0.4,Plaza del Sol 29,Valladolid,Cataluña,10423,174,2023-12-03,2322.3275862068967
+eXp Realty,lista para construir,808734,1,1,1.95,Calle Alcalá 55,Vigo,Cataluña,11195,316,2023-11-20,2559.284810126582
+eXp Realty,lista para construir,604583,6,3,0.33,Calle Mayor 126,Alicante,Baleares,88290,201,2024-06-28,3007.8756218905473
+Realty One,lista para construir,1053279,6,1,0.95,Plaza España 81,Las Palmas,Murcia,30521,427,2023-12-02,2466.695550351288
+Compass,lista para la venta,1053912,3,3,1.42,Plaza España 56,Valladolid,Aragón,10309,434,2024-07-14,2428.36866359447
+Realty One,lista para la venta,1026007,4,1,1.13,Avenida de la Constitución 56,Las Palmas,Baleares,80119,444,2025-02-19,2310.8265765765764
+Compass,lista para la venta,1090236,5,2,1.3,Avenida de la Constitución 12,Gijón,Murcia,45621,435,2024-03-06,2506.289655172414
+RE/MAX,lista para construir,1027098,6,3,1.65,Calle Gran Vía 161,Sevilla,Galicia,60871,334,2023-11-01,3075.1437125748503
+Berkshire Hathaway,lista para la venta,511323,6,3,0.97,Avenida de la Constitución 103,Sevilla,Madrid,39874,126,2025-04-30,4058.1190476190477
+Sotheby's,lista para la venta,1447780,5,3,0.29,Calle Alcalá 38,Madrid,Murcia,62809,265,2024-05-23,5463.320754716981
+RE/MAX,lista para construir,893487,4,3,1.54,Plaza España 100,Gijón,Galicia,43256,368,2023-08-03,2427.953804347826
+Coldwell Banker,lista para construir,1646655,1,1,0.3,Calle Serrano 15,Barcelona,Aragón,90744,377,2023-07-04,4367.785145888594
+RE/MAX,lista para construir,443994,1,2,1.53,Calle Mayor 107,Murcia,Valencia,79760,137,2023-08-16,3240.832116788321
+RE/MAX,lista para la venta,1453362,1,2,0.61,Calle Serrano 78,Bilbao,Cataluña,13400,447,2024-08-13,3251.3691275167785
+Coldwell Banker,lista para la venta,257802,1,1,1.78,Calle Mayor 8,Valladolid,Extremadura,87006,81,2024-12-07,3182.740740740741
+Realty One,lista para construir,2232750,6,2,1.03,Plaza del Sol 130,Barcelona,Baleares,45163,492,2024-03-22,4538.109756097561
+Keller Williams,lista para la venta,375134,4,3,1.62,Calle Mayor 199,Valencia,Navarra,48083,53,2023-07-15,7078.0
+RE/MAX,lista para la venta,931518,2,3,0.99,Ronda de Valencia 161,Alicante,Castilla-La Mancha,35728,354,2024-02-23,2631.406779661017
+Compass,lista para la venta,248634,3,1,1.55,Avenida de la Constitución 117,Las Palmas,Castilla-La Mancha,39315,72,2025-04-29,3453.25
+Keller Williams,lista para la venta,501769,2,2,0.42,Calle Serrano 8,Alicante,Galicia,85069,216,2024-06-05,2323.0046296296296
+Sotheby's,lista para construir,856400,2,1,0.31,Ronda de Valencia 75,Las Palmas,Murcia,64035,351,2025-04-11,2439.8860398860397
+Realty One,lista para construir,265635,3,4,0.19,Calle Serrano 166,Murcia,Valencia,43296,54,2025-01-24,4919.166666666667
+Keller Williams,lista para construir,373184,1,1,1.08,Avenida Diagonal 72,Málaga,Aragón,25118,94,2023-06-09,3970.0425531914893
+Keller Williams,lista para construir,859022,6,4,1.67,Calle Gran Vía 134,Las Palmas,Valencia,98660,318,2024-10-18,2701.327044025157
+Realty One,lista para la venta,1113252,2,1,1.38,Calle Mayor 31,Gijón,País Vasco,83732,485,2024-09-20,2295.364948453608
+Century 21,lista para construir,485680,2,1,0.17,Plaza España 176,Córdoba,País Vasco,70068,235,2024-06-11,2066.723404255319
+Realty One,lista para construir,631458,6,1,1.23,Avenida Diagonal 18,Córdoba,País Vasco,68312,195,2023-12-05,3238.246153846154
+Keller Williams,lista para construir,1543162,4,1,0.6,Calle Serrano 155,Bilbao,Valencia,96819,452,2024-08-23,3414.075221238938
+Compass,lista para la venta,427393,3,3,1.97,Plaza España 191,Valladolid,Asturias,91856,99,2023-08-18,4317.10101010101
+RE/MAX,lista para la venta,898195,3,3,1.4,Calle Mayor 91,Valencia,Valencia,31092,268,2024-03-31,3351.473880597015
+Compass,lista para construir,324817,4,1,1.07,Ronda de Valencia 63,Gijón,Asturias,92931,78,2024-04-14,4164.320512820513
+Coldwell Banker,lista para construir,891595,1,2,0.64,Avenida Diagonal 17,Las Palmas,Canarias,52785,355,2025-03-30,2511.5352112676055
+Century 21,lista para la venta,574878,3,3,1.34,Plaza del Sol 64,Córdoba,Andalucía,63806,169,2025-02-03,3401.644970414201
+RE/MAX,lista para la venta,888729,6,3,0.94,Paseo de la Castellana 161,Las Palmas,Baleares,79562,348,2023-12-02,2553.8189655172414
+Keller Williams,lista para construir,1044113,4,3,1.53,Calle Mayor 119,Valladolid,Valencia,38415,413,2024-05-16,2528.1186440677966
+Berkshire Hathaway,lista para construir,1437327,4,1,0.83,Calle Serrano 77,Valencia,Valencia,59477,458,2023-10-04,3138.268558951965
+Century 21,lista para construir,1210632,2,2,1.4,Calle Serrano 138,Valencia,Galicia,19131,358,2025-03-01,3381.653631284916
+RE/MAX,lista para construir,676649,2,3,1.19,Ronda de Valencia 154,Vigo,País Vasco,25831,234,2025-01-31,2891.662393162393
+Berkshire Hathaway,lista para construir,1203564,4,4,1.12,Plaza España 63,Zaragoza,Madrid,77633,463,2023-12-27,2599.490280777538
+RE/MAX,lista para construir,620780,4,4,0.19,Calle Gran Vía 175,Palma,Cataluña,63376,237,2024-08-21,2619.324894514768
+eXp Realty,lista para construir,1081757,4,3,1.31,Calle Alcalá 153,Málaga,Extremadura,24004,328,2024-07-31,3298.0396341463415
+Sotheby's,lista para construir,331029,5,2,1.52,Paseo de la Castellana 87,Valladolid,Valencia,14350,68,2023-09-16,4868.073529411765
+eXp Realty,lista para construir,592156,3,2,0.96,Calle Mayor 154,Gijón,Navarra,58319,191,2024-11-16,3100.2931937172775
+Coldwell Banker,lista para la venta,1287915,6,4,1.93,Plaza España 141,Málaga,Galicia,81570,381,2024-06-13,3380.3543307086616
+Compass,lista para la venta,575517,2,2,0.46,Calle Mayor 92,Bilbao,Baleares,26084,153,2024-11-27,3761.549019607843
+Realty One,lista para la venta,331729,2,2,0.36,Calle Mayor 44,Vigo,Madrid,90729,122,2024-06-06,2719.090163934426
+eXp Realty,lista para construir,1621645,3,3,0.13,Plaza del Sol 129,Madrid,Castilla-La Mancha,49309,339,2023-06-01,4783.613569321534
+RE/MAX,lista para construir,1181126,2,1,1.16,Avenida de la Constitución 53,Bilbao,Cataluña,20196,359,2024-01-14,3290.0445682451254
+RE/MAX,lista para la venta,1094197,2,3,0.9,Plaza del Sol 154,Las Palmas,Valencia,74607,477,2023-06-14,2293.9140461215934
+Coldwell Banker,lista para la venta,903521,1,1,0.71,Ronda de Valencia 176,Alicante,Castilla-La Mancha,59697,402,2025-03-13,2247.564676616915
+Compass,lista para construir,950990,3,2,0.46,Paseo de la Castellana 148,Barcelona,Extremadura,79210,184,2025-02-05,5168.423913043478
+RE/MAX,lista para construir,813493,5,2,1.91,Avenida Diagonal 3,Murcia,Galicia,43399,244,2025-01-03,3333.9877049180327
+Realty One,lista para construir,853899,3,3,0.13,Ronda de Valencia 178,Zaragoza,Valencia,24671,333,2024-01-02,2564.261261261261
+Century 21,lista para la venta,640193,1,1,1.87,Avenida de la Constitución 161,Bilbao,Baleares,61783,170,2023-07-11,3765.8411764705884
+Realty One,lista para la venta,303335,3,2,1.68,Plaza España 96,Córdoba,Galicia,52919,83,2025-02-05,3654.6385542168673
+Century 21,lista para la venta,442721,5,2,1.51,Paseo de la Castellana 25,Murcia,Andalucía,81690,143,2025-03-25,3095.951048951049
+eXp Realty,lista para la venta,941192,2,2,0.61,Avenida Diagonal 31,Valladolid,Madrid,59521,432,2023-07-31,2178.685185185185
+Sotheby's,lista para la venta,914152,3,1,1.66,Plaza España 142,Barcelona,Extremadura,56346,182,2024-05-06,5022.813186813187
+Berkshire Hathaway,lista para construir,675139,4,3,1.76,Ronda de Valencia 23,Valencia,Valencia,40426,177,2023-07-19,3814.3446327683614
+Sotheby's,lista para construir,375263,5,3,0.68,Calle Alcalá 30,Málaga,Cataluña,56653,90,2024-11-15,4169.5888888888885
+Realty One,lista para la venta,2021733,5,1,1.47,Calle Gran Vía 186,Barcelona,Navarra,15010,431,2024-11-18,4690.795823665893
+Coldwell Banker,lista para la venta,226338,2,1,0.81,Plaza España 146,Vigo,Baleares,93427,59,2023-08-30,3836.237288135593
+Century 21,lista para la venta,1063670,3,3,0.54,Calle Serrano 123,Sevilla,Aragón,25963,425,2024-04-29,2502.752941176471
+RE/MAX,lista para la venta,966044,1,2,1.47,Avenida de la Constitución 62,Sevilla,Baleares,16879,355,2024-06-20,2721.250704225352
+Berkshire Hathaway,lista para la venta,2316553,3,2,1.87,Avenida Diagonal 34,Madrid,Canarias,31619,457,2023-12-03,5069.043763676149
+Sotheby's,lista para construir,957385,3,2,1.4,Calle Alcalá 146,Gijón,Madrid,67022,366,2025-02-01,2615.8060109289618
+Realty One,lista para construir,320755,3,4,0.21,Plaza España 56,Barcelona,Galicia,49675,51,2024-03-23,6289.313725490196
+Keller Williams,lista para la venta,901285,5,1,1.05,Avenida Diagonal 182,Bilbao,Canarias,41374,229,2023-10-27,3935.7423580786026
+eXp Realty,lista para la venta,1986992,2,1,1.67,Ronda de Valencia 67,Barcelona,Navarra,15131,429,2024-06-13,4631.682983682984
+Compass,lista para la venta,543307,2,3,1.58,Plaza España 92,Alicante,Baleares,54997,208,2024-10-24,2612.0528846153848
+Realty One,lista para construir,447755,1,1,1.72,Ronda de Valencia 168,Zaragoza,Madrid,86384,174,2023-10-20,2573.3045977011493
+Realty One,lista para la venta,1136533,2,2,0.15,Calle Gran Vía 91,Valencia,Murcia,58845,381,2024-01-05,2983.02624671916
+Sotheby's,lista para la venta,632332,6,3,1.59,Calle Gran Vía 63,Vigo,Baleares,54044,201,2025-04-28,3145.9303482587065
+Berkshire Hathaway,lista para la venta,723573,6,3,0.69,Paseo de la Castellana 154,Bilbao,Navarra,65557,138,2024-08-29,5243.282608695652
+Sotheby's,lista para la venta,418590,2,1,1.92,Avenida de la Constitución 50,Las Palmas,Valencia,97724,153,2024-04-03,2735.8823529411766
+Compass,lista para la venta,331635,1,1,0.79,Calle Alcalá 23,Zaragoza,Castilla-La Mancha,43038,103,2024-05-28,3219.757281553398
+Berkshire Hathaway,lista para la venta,1054012,2,3,1.3,Ronda de Valencia 45,Bilbao,Canarias,98603,274,2023-08-24,3846.7591240875913
+Compass,lista para construir,999935,3,1,0.28,Paseo de la Castellana 81,Alicante,Cataluña,91457,464,2023-11-05,2155.032327586207
+RE/MAX,lista para la venta,965494,6,3,0.11,Ronda de Valencia 100,Palma,País Vasco,54076,393,2024-01-23,2456.727735368957
+eXp Realty,lista para construir,643299,3,2,1.38,Plaza España 123,Córdoba,Andalucía,59405,196,2024-07-17,3282.137755102041
+Sotheby's,lista para la venta,228322,2,1,1.53,Ronda de Valencia 144,Valladolid,Castilla y León,13496,54,2023-11-09,4228.185185185185
+Coldwell Banker,lista para construir,1691404,6,1,0.29,Plaza España 81,Bilbao,Navarra,21689,485,2023-11-02,3487.4309278350515
+Keller Williams,lista para construir,1751764,5,4,1.41,Plaza del Sol 66,Madrid,Madrid,53932,343,2023-07-20,5107.183673469388
+Berkshire Hathaway,lista para construir,775930,5,2,0.73,Avenida de la Constitución 109,Gijón,Murcia,42693,294,2024-08-16,2639.21768707483
+Coldwell Banker,lista para la venta,646846,2,2,0.92,Avenida de la Constitución 40,Valencia,Galicia,13813,182,2023-11-08,3554.098901098901
+Berkshire Hathaway,lista para construir,619934,4,4,1.35,Calle Mayor 91,Murcia,Castilla y León,27075,172,2025-02-24,3604.267441860465
+Keller Williams,lista para construir,855511,5,2,1.99,Calle Gran Vía 121,Valladolid,Valencia,98274,268,2025-01-23,3192.205223880597
+eXp Realty,lista para construir,713780,5,1,0.2,Plaza España 116,Valencia,Asturias,21274,197,2023-07-20,3623.248730964467
+Keller Williams,lista para la venta,1159776,4,1,1.1,Calle Serrano 154,Sevilla,Asturias,96402,418,2023-11-14,2774.5837320574165
+Keller Williams,lista para construir,787865,6,1,1.51,Ronda de Valencia 110,Zaragoza,Galicia,36696,296,2024-09-11,2661.7060810810813
+eXp Realty,lista para construir,959174,6,2,0.19,Plaza del Sol 134,Valladolid,Canarias,20440,386,2023-10-29,2484.9067357512954
+Century 21,lista para construir,1908306,1,2,1.62,Ronda de Valencia 77,Madrid,Galicia,85622,406,2023-09-01,4700.261083743842
+Century 21,lista para la venta,413415,3,4,0.36,Plaza del Sol 186,Murcia,Asturias,39252,104,2025-03-17,3975.144230769231
+Coldwell Banker,lista para construir,773984,5,3,0.85,Avenida Diagonal 138,Palma,Baleares,31461,257,2024-07-05,3011.6108949416343
+Berkshire Hathaway,lista para construir,752571,4,3,0.74,Avenida Diagonal 95,Sevilla,Valencia,17585,223,2024-04-27,3374.7578475336322
+Realty One,lista para construir,956691,1,1,0.42,Calle Gran Vía 23,Vigo,Baleares,14400,405,2024-12-02,2362.2
+Century 21,lista para construir,855253,1,1,0.42,Avenida de la Constitución 142,Málaga,Madrid,52813,280,2024-12-18,3054.475
+Keller Williams,lista para la venta,475119,1,2,1.78,Ronda de Valencia 166,Barcelona,Madrid,14369,86,2023-10-12,5524.639534883721
+RE/MAX,lista para la venta,803492,3,1,1.76,Plaza España 14,Córdoba,Canarias,12626,280,2023-08-07,2869.614285714286
+Realty One,lista para la venta,890204,1,2,1.91,Avenida de la Constitución 197,Bilbao,Extremadura,40227,239,2024-03-29,3724.702928870293
+Sotheby's,lista para la venta,559524,2,1,1.32,Ronda de Valencia 38,Vigo,Asturias,39392,175,2024-03-23,3197.28
+Berkshire Hathaway,lista para construir,441746,6,1,0.21,Plaza del Sol 66,Bilbao,Asturias,42400,89,2024-04-23,4963.438202247191
+Century 21,lista para la venta,1354522,4,3,0.46,Plaza España 69,Bilbao,Castilla-La Mancha,68507,375,2024-10-24,3612.058666666667
+RE/MAX,lista para construir,902041,2,1,1.28,Avenida Diagonal 4,Madrid,Valencia,17313,184,2024-09-15,4902.396739130435
+Sotheby's,lista para construir,582644,5,1,1.01,Calle Mayor 173,Murcia,Canarias,99855,212,2025-04-20,2748.3207547169814
+eXp Realty,lista para construir,881237,4,4,1.03,Calle Serrano 188,Palma,País Vasco,16158,344,2023-08-08,2561.735465116279
+Compass,lista para la venta,850106,4,3,1.65,Paseo de la Castellana 30,Zaragoza,Cataluña,68283,307,2024-03-09,2769.074918566775
+Keller Williams,lista para la venta,996376,3,4,0.51,Avenida de la Constitución 162,Valencia,Navarra,18149,306,2024-01-24,3256.1307189542486
+Coldwell Banker,lista para construir,1329580,6,4,1.76,Ronda de Valencia 186,Alicante,Castilla-La Mancha,54971,487,2025-01-25,2730.1437371663246
+eXp Realty,lista para la venta,1215158,5,1,1.66,Ronda de Valencia 74,Gijón,Baleares,18324,494,2023-11-22,2459.834008097166
+Keller Williams,lista para la venta,880390,2,1,1.1,Avenida de la Constitución 151,Murcia,Aragón,60805,362,2023-10-12,2432.016574585635
+Coldwell Banker,lista para construir,577337,2,1,0.26,Plaza España 178,Bilbao,País Vasco,92659,136,2024-04-10,4245.125
+Keller Williams,lista para la venta,698466,3,3,1.16,Calle Alcalá 65,Valladolid,Valencia,43136,251,2024-03-22,2782.733067729084
+Berkshire Hathaway,lista para construir,344892,4,2,0.19,Avenida de la Constitución 94,Gijón,Asturias,69026,104,2023-12-13,3316.269230769231
+Coldwell Banker,lista para la venta,312387,2,2,0.78,Calle Gran Vía 134,Zaragoza,Aragón,24582,85,2023-11-23,3675.141176470588
+Realty One,lista para la venta,182855,1,2,0.53,Avenida de la Constitución 89,Alicante,Baleares,34025,62,2025-03-09,2949.2741935483873
+Coldwell Banker,lista para la venta,234890,6,3,0.29,Paseo de la Castellana 109,Gijón,Valencia,71867,50,2024-04-06,4697.8
+Berkshire Hathaway,lista para construir,654865,2,1,1.34,Calle Mayor 162,Vigo,Madrid,41981,229,2025-01-24,2859.6724890829696
+RE/MAX,lista para construir,550131,3,2,1.67,Calle Alcalá 42,Sevilla,Aragón,36718,165,2024-06-20,3334.1272727272726
+eXp Realty,lista para la venta,2210491,5,4,1.62,Calle Mayor 93,Barcelona,Castilla-La Mancha,39966,466,2023-07-06,4743.542918454936
+Coldwell Banker,lista para la venta,435342,2,1,1.42,Ronda de Valencia 120,Murcia,País Vasco,45299,128,2025-05-01,3401.109375
+RE/MAX,lista para la venta,1045212,4,1,0.33,Avenida de la Constitución 134,Córdoba,Aragón,59941,468,2025-01-07,2233.358974358974
+RE/MAX,lista para construir,563048,3,3,0.47,Calle Mayor 166,Córdoba,Murcia,36247,224,2025-04-10,2513.6071428571427
+RE/MAX,lista para la venta,387174,2,1,0.56,Plaza España 64,Alicante,Madrid,21039,124,2025-03-11,3122.3709677419356
+eXp Realty,lista para construir,580109,2,1,0.41,Plaza del Sol 47,Barcelona,País Vasco,36401,106,2025-01-15,5472.726415094339
+eXp Realty,lista para construir,303079,3,4,0.35,Calle Mayor 141,Gijón,Galicia,75028,80,2023-09-25,3788.4875
+Sotheby's,lista para construir,1128744,6,3,1.64,Calle Alcalá 3,Barcelona,Galicia,14559,188,2024-05-06,6003.95744680851
+Compass,lista para la venta,783158,1,2,0.47,Calle Mayor 27,Sevilla,Valencia,25692,297,2023-10-28,2636.895622895623
+Berkshire Hathaway,lista para construir,870826,4,3,1.34,Paseo de la Castellana 159,Málaga,Navarra,54001,260,2024-03-08,3349.3307692307694
+Sotheby's,lista para construir,1123584,6,4,1.56,Paseo de la Castellana 125,Palma,Aragón,74250,425,2023-07-12,2643.727058823529
+Century 21,lista para construir,1319320,4,3,0.12,Paseo de la Castellana 141,Bilbao,Navarra,26860,383,2024-02-21,3444.699738903394
+eXp Realty,lista para la venta,647365,5,1,1.82,Calle Alcalá 58,Valencia,Aragón,79418,133,2025-04-21,4867.4060150375935
+Sotheby's,lista para la venta,791624,1,1,0.65,Calle Mayor 103,Valladolid,Galicia,45677,335,2023-12-03,2363.0567164179106
+Keller Williams,lista para la venta,1177208,6,2,0.54,Calle Mayor 63,Zaragoza,Castilla-La Mancha,35910,494,2024-12-01,2383.0121457489877
+Century 21,lista para la venta,966884,1,1,1.34,Paseo de la Castellana 96,Sevilla,Castilla y León,90147,405,2024-04-14,2387.367901234568
+RE/MAX,lista para construir,1385318,2,1,0.9,Calle Gran Vía 102,Madrid,Navarra,78769,269,2024-03-23,5149.881040892194
+Sotheby's,lista para la venta,1203984,3,3,1.12,Plaza España 25,Zaragoza,Valencia,59557,491,2025-04-02,2452.105906313646
+Berkshire Hathaway,lista para construir,414732,5,3,1.4,Avenida Diagonal 99,Sevilla,Canarias,53195,112,2025-04-28,3702.964285714286
+Sotheby's,lista para construir,421048,1,2,1.73,Calle Mayor 152,Córdoba,Madrid,39400,132,2024-06-24,3189.757575757576
+Century 21,lista para la venta,860205,3,1,1.46,Ronda de Valencia 57,Murcia,Canarias,27998,376,2024-10-16,2287.779255319149
+Coldwell Banker,lista para construir,611559,3,1,0.5,Calle Serrano 63,Zaragoza,Castilla-La Mancha,58353,237,2023-09-17,2580.4177215189875
+Berkshire Hathaway,lista para construir,1044855,2,2,0.52,Calle Mayor 39,Sevilla,País Vasco,78827,447,2023-12-25,2337.48322147651
+RE/MAX,lista para la venta,214507,1,1,0.39,Plaza del Sol 146,Zaragoza,Asturias,32765,77,2025-04-10,2785.805194805195
+Sotheby's,lista para construir,1852430,3,2,1.02,Calle Alcalá 81,Madrid,Asturias,36323,380,2024-07-11,4874.815789473684
+Century 21,lista para construir,491581,1,1,1.49,Calle Gran Vía 195,Gijón,País Vasco,12229,180,2024-06-15,2731.0055555555555
+eXp Realty,lista para construir,280779,1,2,1.3,Calle Alcalá 179,Palma,Navarra,81554,74,2024-11-06,3794.310810810811
+Century 21,lista para la venta,269843,1,2,1.12,Plaza España 87,Murcia,Baleares,25793,102,2023-07-11,2645.5196078431372
+Realty One,lista para construir,702567,6,2,1.07,Avenida Diagonal 22,Valladolid,Murcia,48400,232,2024-07-14,3028.3060344827586
+RE/MAX,lista para la venta,1067172,2,2,0.32,Ronda de Valencia 124,Córdoba,Navarra,85577,485,2024-05-18,2200.354639175258
+eXp Realty,lista para construir,914199,5,4,1.24,Avenida de la Constitución 168,Alicante,Castilla y León,89116,312,2025-01-18,2930.125
+Compass,lista para construir,1454635,3,1,1.61,Avenida de la Constitución 55,Madrid,Extremadura,81161,297,2023-09-19,4897.760942760943
+Compass,lista para construir,910028,6,4,0.98,Calle Serrano 73,Zaragoza,Canarias,93803,303,2025-04-04,3003.3927392739274
+Keller Williams,lista para construir,955879,3,1,1.54,Calle Serrano 17,Zaragoza,Aragón,36436,402,2023-07-27,2377.8084577114428
+Compass,lista para la venta,795173,2,3,0.46,Calle Gran Vía 28,Vigo,Valencia,44979,353,2023-10-09,2252.614730878187
+Berkshire Hathaway,lista para construir,1735584,3,3,1.47,Avenida Diagonal 84,Madrid,Valencia,21766,352,2024-07-22,4930.636363636364
+eXp Realty,lista para construir,753649,1,1,1.77,Calle Serrano 51,Alicante,Navarra,34388,268,2024-09-16,2812.123134328358
+eXp Realty,lista para la venta,934686,5,4,0.26,Avenida Diagonal 49,Valladolid,Galicia,37670,387,2023-11-12,2415.2093023255816
+Century 21,lista para construir,526628,4,2,1.28,Calle Serrano 182,Bilbao,Murcia,23129,84,2023-08-24,6269.380952380952
+Sotheby's,lista para construir,1592846,4,4,1.79,Calle Gran Vía 185,Bilbao,Asturias,63653,448,2025-02-14,3555.4598214285716
+Realty One,lista para construir,1543678,4,4,1.99,Calle Gran Vía 48,Valencia,Castilla y León,56053,437,2023-11-20,3532.4439359267735
+RE/MAX,lista para construir,508303,3,4,0.16,Calle Gran Vía 125,Málaga,Madrid,72741,158,2024-07-21,3217.1075949367087
+Berkshire Hathaway,lista para construir,425472,3,2,0.84,Calle Alcalá 143,Gijón,Extremadura,34092,131,2024-08-08,3247.8778625954196
+Century 21,lista para construir,1746322,2,2,0.64,Paseo de la Castellana 182,Barcelona,Castilla-La Mancha,38921,397,2024-03-20,4398.7959697732995
+Realty One,lista para la venta,1994887,3,1,0.41,Calle Alcalá 173,Madrid,Valencia,57055,410,2024-07-14,4865.578048780488
+Realty One,lista para la venta,2263907,4,1,1.67,Calle Alcalá 185,Barcelona,Madrid,17997,477,2024-06-01,4746.136268343816
+RE/MAX,lista para la venta,655480,2,2,1.54,Plaza España 185,Madrid,Aragón,44017,117,2025-03-17,5602.393162393162
+Keller Williams,lista para la venta,1461215,5,4,0.41,Ronda de Valencia 29,Málaga,Canarias,90107,474,2023-10-22,3082.7320675105484
+Coldwell Banker,lista para la venta,426887,5,3,0.45,Plaza del Sol 10,Palma,Aragón,51091,109,2024-10-15,3916.394495412844
+Coldwell Banker,lista para la venta,646248,4,3,0.26,Paseo de la Castellana 183,Murcia,Canarias,20115,266,2023-11-15,2429.503759398496
+Realty One,lista para la venta,579245,2,1,0.96,Ronda de Valencia 188,Barcelona,Andalucía,72583,95,2024-03-04,6097.315789473684
+RE/MAX,lista para construir,998266,6,3,1.67,Calle Alcalá 166,Murcia,Extremadura,98963,381,2024-09-13,2620.1207349081365
+Realty One,lista para construir,752748,3,3,1.34,Calle Gran Vía 140,Zaragoza,Galicia,64811,253,2023-12-28,2975.288537549407
+Sotheby's,lista para construir,640936,2,3,1.63,Avenida Diagonal 170,Madrid,Madrid,59894,95,2024-01-08,6746.694736842105
+Berkshire Hathaway,lista para la venta,1268180,3,4,0.42,Calle Gran Vía 45,Madrid,Murcia,31208,251,2024-11-09,5052.509960159363
+Coldwell Banker,lista para construir,512535,3,4,0.31,Paseo de la Castellana 155,Las Palmas,Navarra,19834,139,2023-07-21,3687.3021582733813
+Keller Williams,lista para la venta,609130,2,2,1.69,Avenida Diagonal 94,Málaga,Extremadura,10206,137,2024-04-17,4446.204379562044
+Realty One,lista para la venta,809117,4,4,1.75,Calle Alcalá 170,Madrid,Valencia,59376,125,2025-04-30,6472.936
+Keller Williams,lista para construir,816892,1,1,0.67,Avenida de la Constitución 23,Gijón,Castilla y León,33857,350,2025-04-29,2333.977142857143
+Sotheby's,lista para construir,642822,4,3,1.45,Avenida Diagonal 99,Valencia,Castilla y León,73836,125,2023-07-22,5142.576
+RE/MAX,lista para construir,849477,4,1,0.96,Calle Serrano 177,Madrid,Murcia,89859,153,2023-10-28,5552.137254901961
+Berkshire Hathaway,lista para construir,1016974,2,3,1.81,Avenida Diagonal 87,Valladolid,Madrid,23402,427,2023-12-03,2381.6721311475408
+RE/MAX,lista para construir,965021,6,1,1.49,Calle Mayor 174,Zaragoza,País Vasco,39394,384,2025-03-16,2513.0755208333335
+eXp Realty,lista para la venta,358751,4,2,0.59,Plaza España 172,Málaga,País Vasco,22772,89,2025-02-07,4030.9101123595506
+Realty One,lista para la venta,799778,2,2,0.91,Avenida de la Constitución 82,Murcia,Valencia,23564,315,2025-02-06,2538.9777777777776
+Keller Williams,lista para construir,369974,2,1,0.8,Paseo de la Castellana 154,Palma,Castilla-La Mancha,12589,140,2024-02-15,2642.6714285714284
+Compass,lista para la venta,1049822,3,3,1.32,Plaza España 92,Málaga,Extremadura,25025,327,2023-09-19,3210.4648318042814
+Keller Williams,lista para la venta,886599,5,4,1.16,Avenida Diagonal 99,Málaga,Cataluña,80423,223,2025-01-05,3975.7802690582957
+Berkshire Hathaway,lista para la venta,1750844,5,3,1.16,Avenida de la Constitución 80,Madrid,Navarra,46420,344,2024-10-06,5089.662790697675
+Realty One,lista para la venta,966198,5,1,1.63,Calle Mayor 29,Sevilla,Extremadura,68355,327,2024-08-02,2954.733944954128
+Sotheby's,lista para construir,922234,3,2,0.7,Avenida de la Constitución 64,Bilbao,Asturias,67277,233,2025-04-23,3958.0858369098714
+eXp Realty,lista para la venta,1041990,5,3,1.94,Calle Alcalá 87,Las Palmas,Valencia,46617,399,2024-09-01,2611.503759398496
+Coldwell Banker,lista para la venta,395593,6,1,0.98,Paseo de la Castellana 53,Vigo,Navarra,74958,94,2023-06-06,4208.436170212766
+Compass,lista para la venta,901191,3,1,1.45,Calle Mayor 20,Zaragoza,Cataluña,90704,339,2024-12-24,2658.380530973451
+Berkshire Hathaway,lista para la venta,1075183,3,2,1.37,Calle Gran Vía 195,Valladolid,Canarias,90087,468,2023-12-27,2297.3995726495727
+Compass,lista para la venta,449348,2,2,1.38,Plaza del Sol 107,Sevilla,Navarra,71438,120,2024-09-08,3744.5666666666666
+Keller Williams,lista para la venta,717861,1,1,1.1,Ronda de Valencia 10,Málaga,Cataluña,63745,244,2025-03-20,2942.0532786885246
+Sotheby's,lista para la venta,872588,3,3,1.4,Calle Alcalá 95,Palma,Madrid,98421,364,2023-09-03,2397.21978021978
+Realty One,lista para la venta,600327,6,3,0.33,Calle Serrano 117,Córdoba,Murcia,68244,177,2023-08-20,3391.677966101695
+Realty One,lista para la venta,999536,2,1,1.02,Avenida de la Constitución 63,Zaragoza,Andalucía,53268,432,2023-08-15,2313.740740740741
+Berkshire Hathaway,lista para la venta,1044901,5,2,0.33,Paseo de la Castellana 172,Zaragoza,Aragón,64388,418,2024-06-22,2499.7631578947367
+Compass,lista para construir,370955,2,1,0.29,Avenida Diagonal 183,Vigo,Murcia,74914,107,2023-12-08,3466.8691588785045
+Compass,lista para la venta,1189221,4,2,0.59,Paseo de la Castellana 33,Sevilla,Asturias,33791,467,2024-07-28,2546.5117773019274
+Compass,lista para la venta,1073288,2,3,0.16,Paseo de la Castellana 124,Zaragoza,Castilla y León,56104,461,2024-10-16,2328.173535791757
+Coldwell Banker,lista para construir,546856,4,4,1.38,Avenida de la Constitución 48,Alicante,Baleares,15613,135,2023-10-21,4050.785185185185
+Realty One,lista para la venta,421899,6,2,0.85,Calle Serrano 87,Barcelona,Murcia,12206,50,2024-08-18,8437.98
+Berkshire Hathaway,lista para construir,628060,5,1,1.99,Avenida de la Constitución 79,Sevilla,Navarra,90682,164,2023-12-03,3829.6341463414633
+Realty One,lista para la venta,2128403,5,4,0.73,Calle Gran Vía 40,Madrid,Baleares,56517,423,2024-05-08,5031.685579196217
+Sotheby's,lista para construir,838423,3,4,0.36,Plaza España 188,Palma,Andalucía,42962,371,2025-02-24,2259.900269541779
+Compass,lista para la venta,654894,1,2,1.77,Ronda de Valencia 30,Murcia,Baleares,54203,210,2025-01-14,3118.542857142857
+Berkshire Hathaway,lista para construir,850677,3,2,1.44,Paseo de la Castellana 105,Córdoba,Baleares,24323,303,2023-08-04,2807.5148514851485
+Century 21,lista para la venta,351778,3,2,1.38,Avenida de la Constitución 128,Gijón,Asturias,87974,99,2024-03-23,3553.313131313131
+Realty One,lista para la venta,1839829,3,2,0.92,Avenida Diagonal 17,Madrid,Madrid,21273,375,2023-12-11,4906.210666666667
+Realty One,lista para construir,1164426,5,1,1.21,Plaza del Sol 66,Las Palmas,Madrid,22719,475,2023-06-03,2451.423157894737
+Century 21,lista para la venta,946124,3,3,0.33,Calle Gran Vía 14,Las Palmas,Castilla-La Mancha,10965,373,2024-11-22,2536.5254691689006
+Century 21,lista para construir,374897,1,2,0.44,Calle Gran Vía 36,Córdoba,Extremadura,60516,173,2024-08-20,2167.034682080925
+Realty One,lista para construir,404021,4,1,0.17,Paseo de la Castellana 33,Murcia,Baleares,44278,164,2023-12-01,2463.5426829268295
+Sotheby's,lista para construir,673097,6,3,0.12,Calle Mayor 143,Vigo,Canarias,52556,216,2024-11-01,3116.189814814815
+RE/MAX,lista para construir,546670,2,3,1.77,Calle Mayor 168,Valladolid,Navarra,93051,171,2024-06-21,3196.9005847953217
+Coldwell Banker,lista para construir,893288,3,2,0.12,Plaza España 3,Zaragoza,Extremadura,89277,350,2024-03-26,2552.2514285714287
+Sotheby's,lista para construir,715639,6,4,0.18,Calle Alcalá 46,Palma,Baleares,38930,220,2023-06-07,3252.9045454545453
+Century 21,lista para la venta,895828,4,2,0.94,Calle Serrano 55,Valladolid,País Vasco,30953,357,2023-07-23,2509.3221288515406
+Keller Williams,lista para la venta,453724,5,4,0.8,Ronda de Valencia 10,Gijón,Cataluña,52156,108,2025-02-09,4201.148148148148
+Sotheby's,lista para construir,505945,3,1,0.85,Calle Gran Vía 97,Murcia,Baleares,10474,186,2025-02-23,2720.1344086021504
+Sotheby's,lista para construir,559271,2,3,0.55,Ronda de Valencia 78,Sevilla,Castilla-La Mancha,42924,207,2024-06-17,2701.792270531401
+eXp Realty,lista para construir,1334131,2,1,1.53,Avenida Diagonal 150,Valencia,Murcia,65222,428,2025-01-06,3117.128504672897
+Keller Williams,lista para construir,2018703,3,1,0.62,Avenida de la Constitución 132,Barcelona,Aragón,38712,462,2024-07-13,4369.487012987013
+Compass,lista para construir,982438,2,2,0.34,Calle Alcalá 100,Gijón,Castilla y León,85331,447,2023-09-12,2197.847874720358
+Realty One,lista para la venta,800223,2,2,1.36,Calle Alcalá 145,Sevilla,Valencia,39550,313,2023-08-29,2556.623003194888
+RE/MAX,lista para la venta,514608,4,4,1.37,Avenida Diagonal 1,Las Palmas,Madrid,16727,162,2024-01-03,3176.5925925925926
+eXp Realty,lista para construir,637537,6,3,1.51,Avenida de la Constitución 121,Málaga,Castilla-La Mancha,55677,170,2025-02-20,3750.2176470588233
+Sotheby's,lista para la venta,1189503,3,4,0.25,Calle Serrano 55,Barcelona,Canarias,65913,232,2024-12-10,5127.168103448276
+Berkshire Hathaway,lista para la venta,604380,5,1,1.42,Calle Mayor 47,Bilbao,Castilla-La Mancha,62293,119,2025-01-24,5078.823529411765
+Berkshire Hathaway,lista para la venta,1883226,6,4,1.99,Calle Mayor 98,Bilbao,Asturias,93554,495,2025-02-20,3804.4969696969697
+Century 21,lista para construir,589364,6,4,1.97,Avenida de la Constitución 2,Valladolid,Andalucía,97697,149,2023-10-26,3955.463087248322
+eXp Realty,lista para la venta,605037,2,1,1.89,Calle Serrano 78,Bilbao,Cataluña,11990,150,2023-11-22,4033.58
+Sotheby's,lista para construir,638108,3,3,1.08,Calle Mayor 50,Alicante,Asturias,86771,230,2023-08-12,2774.3826086956524
+Berkshire Hathaway,lista para construir,432496,3,1,0.31,Avenida de la Constitución 125,Murcia,Navarra,87637,156,2024-11-28,2772.4102564102564
+Coldwell Banker,lista para la venta,809843,2,3,0.74,Avenida Diagonal 72,Palma,Castilla y León,87349,317,2025-02-09,2554.7097791798105
+Compass,lista para la venta,740826,5,3,0.95,Calle Gran Vía 50,Bilbao,País Vasco,92810,168,2024-03-11,4409.678571428572
+Compass,lista para la venta,346887,5,3,1.17,Calle Gran Vía 185,Valladolid,Cataluña,16692,58,2024-08-09,5980.810344827586
+Sotheby's,lista para construir,1213389,4,1,1.4,Calle Serrano 9,Valladolid,Cataluña,26016,497,2023-09-17,2441.4265593561367
+Sotheby's,lista para construir,1786554,6,4,0.91,Calle Mayor 171,Barcelona,Madrid,66305,348,2025-03-13,5133.775862068966
+RE/MAX,lista para la venta,857112,1,2,0.93,Calle Gran Vía 173,Gijón,Castilla-La Mancha,16497,369,2025-01-27,2322.79674796748
+Sotheby's,lista para la venta,2062743,6,3,1.01,Plaza España 44,Barcelona,Extremadura,23238,438,2025-04-15,4709.458904109589
+eXp Realty,lista para la venta,1170737,2,3,1.57,Avenida de la Constitución 64,Málaga,Madrid,78577,389,2024-12-20,3009.606683804627
+Century 21,lista para la venta,1154728,6,1,0.75,Plaza España 148,Sevilla,Aragón,57416,418,2025-02-07,2762.507177033493
+Coldwell Banker,lista para la venta,1042898,4,3,1.93,Calle Gran Vía 46,Vigo,Madrid,77066,414,2023-06-18,2519.07729468599
+RE/MAX,lista para construir,837063,1,1,0.98,Calle Alcalá 131,Córdoba,Canarias,38917,342,2024-10-29,2447.5526315789475
+Century 21,lista para la venta,1067416,5,2,0.37,Calle Serrano 103,Valladolid,Madrid,20041,443,2024-01-19,2409.5169300225734
+Sotheby's,lista para la venta,1011218,5,3,0.73,Paseo de la Castellana 163,Gijón,Aragón,57563,368,2025-03-14,2747.875
+Coldwell Banker,lista para construir,728244,3,3,1.96,Calle Serrano 12,Murcia,País Vasco,84783,277,2024-12-14,2629.0397111913358
+Realty One,lista para construir,1187287,6,4,1.12,Calle Mayor 161,Vigo,Baleares,29473,460,2025-01-26,2581.058695652174
+Realty One,lista para la venta,551887,6,2,0.34,Calle Gran Vía 142,Valladolid,Navarra,78002,171,2024-12-20,3227.409356725146
+RE/MAX,lista para la venta,505727,6,1,0.16,Calle Serrano 35,Sevilla,Canarias,14537,131,2023-12-05,3860.5114503816794
+Berkshire Hathaway,lista para construir,703713,1,1,1.37,Calle Serrano 103,Valladolid,Navarra,88472,305,2024-12-03,2307.255737704918
+Compass,lista para construir,960387,5,2,0.43,Plaza España 52,Alicante,Canarias,27845,427,2023-08-15,2249.149882903981
+Sotheby's,lista para la venta,822399,2,2,0.83,Avenida Diagonal 170,Barcelona,Aragón,70036,157,2025-02-01,5238.210191082802
+Century 21,lista para la venta,624279,2,3,0.69,Calle Mayor 120,Las Palmas,Asturias,17414,212,2025-01-22,2944.7122641509436
+Compass,lista para la venta,1302550,4,2,0.53,Plaza España 122,Barcelona,Galicia,52094,277,2023-11-03,4702.3465703971115
+eXp Realty,lista para la venta,1094380,3,1,1.74,Plaza del Sol 35,Valencia,Madrid,84415,303,2024-12-24,3611.815181518152
+Compass,lista para construir,1122462,2,3,1.82,Calle Alcalá 192,Murcia,Murcia,15033,490,2024-04-18,2290.738775510204
+Compass,lista para construir,641615,5,1,2.0,Calle Gran Vía 142,Sevilla,Extremadura,52961,181,2023-12-31,3544.8342541436464
+Keller Williams,lista para la venta,1524620,6,4,1.44,Calle Serrano 109,Barcelona,Canarias,96642,294,2024-12-09,5185.78231292517
+Compass,lista para la venta,676991,3,2,1.2,Plaza España 198,Vigo,Navarra,16467,216,2023-11-07,3134.2175925925926
+Sotheby's,lista para construir,450786,3,2,1.7,Calle Serrano 60,Las Palmas,Asturias,19284,119,2023-06-17,3788.1176470588234
+RE/MAX,lista para construir,1279357,6,1,0.72,Calle Gran Vía 41,Málaga,Cataluña,47865,410,2023-10-14,3120.3829268292684
+Realty One,lista para construir,950394,4,2,1.45,Calle Gran Vía 16,Valladolid,Madrid,89671,403,2024-01-17,2358.2977667493797
+eXp Realty,lista para la venta,678997,2,1,1.07,Calle Serrano 173,Murcia,Navarra,26698,283,2025-01-26,2399.2826855123676
+Realty One,lista para la venta,494189,6,2,1.87,Ronda de Valencia 193,Madrid,Valencia,87517,57,2025-04-08,8669.982456140351
+Coldwell Banker,lista para la venta,562284,1,2,0.14,Paseo de la Castellana 126,Vigo,Navarra,95561,254,2023-12-13,2213.716535433071
+RE/MAX,lista para construir,297451,4,2,0.92,Plaza del Sol 41,Murcia,Canarias,69500,51,2024-08-23,5832.3725490196075
+RE/MAX,lista para construir,668494,3,3,1.41,Calle Alcalá 80,Gijón,Extremadura,70028,229,2024-03-07,2919.187772925764
+RE/MAX,lista para la venta,948420,1,1,1.44,Avenida Diagonal 41,Valladolid,Castilla-La Mancha,13114,437,2025-04-18,2170.2974828375286
+Sotheby's,lista para construir,526228,6,3,0.78,Plaza España 36,Valencia,Asturias,31052,126,2024-06-10,4176.412698412699
+Sotheby's,lista para la venta,794304,2,1,1.92,Calle Alcalá 43,Murcia,Andalucía,64210,279,2025-03-20,2846.967741935484
+Coldwell Banker,lista para construir,1233629,5,3,1.4,Plaza del Sol 66,Málaga,País Vasco,62995,403,2023-08-20,3061.1141439205953
+Compass,lista para la venta,418690,5,2,1.59,Calle Alcalá 92,Valladolid,Aragón,12862,128,2025-04-11,3271.015625
+Sotheby's,lista para construir,480130,2,1,0.28,Calle Mayor 2,Alicante,Andalucía,32041,212,2023-10-04,2264.764150943396
+Keller Williams,lista para la venta,1499151,1,2,0.7,Paseo de la Castellana 60,Bilbao,Baleares,41212,426,2025-04-05,3519.1338028169016
+Coldwell Banker,lista para la venta,1062418,3,3,0.98,Avenida de la Constitución 192,Córdoba,Baleares,50848,441,2023-12-04,2409.1111111111113
+eXp Realty,lista para la venta,938633,1,1,1.07,Ronda de Valencia 97,Gijón,Extremadura,22223,408,2023-08-15,2300.5710784313724
+eXp Realty,lista para construir,351448,5,1,1.09,Calle Alcalá 139,Valladolid,País Vasco,92867,59,2024-03-31,5956.745762711865
+Keller Williams,lista para la venta,686301,1,1,1.78,Calle Mayor 200,Córdoba,País Vasco,28522,291,2024-10-23,2358.422680412371
+Keller Williams,lista para construir,897808,6,4,1.6,Calle Serrano 132,Murcia,Madrid,39938,314,2024-01-06,2859.2611464968154
+Coldwell Banker,lista para construir,965721,3,2,1.69,Calle Mayor 27,Barcelona,Canarias,98430,200,2024-07-29,4828.605
+Coldwell Banker,lista para construir,971119,5,1,1.64,Ronda de Valencia 143,Las Palmas,Castilla y León,34115,343,2024-05-24,2831.2507288629736
+Sotheby's,lista para la venta,1044924,4,3,1.79,Calle Gran Vía 197,Córdoba,País Vasco,25100,423,2024-02-26,2470.2695035460993
+Sotheby's,lista para construir,401912,1,1,0.15,Avenida de la Constitución 194,Sevilla,Baleares,95326,173,2024-07-09,2323.190751445087
+Century 21,lista para la venta,813412,1,1,1.67,Paseo de la Castellana 165,Zaragoza,Asturias,10837,326,2023-11-26,2495.128834355828
+Sotheby's,lista para construir,956641,3,1,1.48,Plaza del Sol 137,Málaga,Aragón,57908,309,2024-10-09,3095.925566343042
+Coldwell Banker,lista para la venta,823478,4,2,1.72,Calle Gran Vía 128,Valladolid,País Vasco,74864,267,2023-06-02,3084.187265917603
+Coldwell Banker,lista para la venta,512863,1,2,0.55,Avenida de la Constitución 16,Gijón,Baleares,83930,193,2025-03-10,2657.321243523316
+eXp Realty,lista para la venta,1323708,5,1,0.7,Paseo de la Castellana 177,Bilbao,Canarias,95077,377,2024-06-12,3511.1618037135277
+Realty One,lista para la venta,937642,2,2,1.93,Calle Serrano 33,Madrid,Aragón,92913,182,2024-10-17,5151.879120879121
+RE/MAX,lista para construir,494817,5,1,1.89,Avenida de la Constitución 131,Murcia,Canarias,67152,167,2024-11-02,2962.9760479041915
+eXp Realty,lista para construir,861196,3,3,1.9,Calle Mayor 107,Gijón,Galicia,69477,318,2024-09-13,2708.1635220125786
+Realty One,lista para la venta,1113883,4,1,0.72,Avenida Diagonal 87,Córdoba,Cataluña,98950,494,2024-02-11,2254.823886639676
+eXp Realty,lista para construir,1030654,2,1,1.16,Paseo de la Castellana 72,Córdoba,Andalucía,33618,471,2023-07-20,2188.2250530785564
+Berkshire Hathaway,lista para construir,449715,3,1,1.49,Calle Serrano 171,Bilbao,Extremadura,27204,86,2024-09-08,5229.2441860465115
+Coldwell Banker,lista para construir,353853,1,1,1.96,Avenida Diagonal 86,Zaragoza,Extremadura,12832,89,2024-01-18,3975.876404494382
+Coldwell Banker,lista para la venta,989283,4,2,0.87,Plaza España 7,Gijón,Canarias,68831,412,2024-01-07,2401.1723300970875
+Sotheby's,lista para la venta,1394539,6,1,1.97,Calle Serrano 194,Sevilla,Galicia,20801,498,2025-01-15,2800.2791164658634
+Sotheby's,lista para construir,778108,1,2,1.94,Plaza del Sol 193,Vigo,Navarra,89649,272,2024-10-17,2860.6911764705883
+Keller Williams,lista para la venta,557421,5,2,0.38,Ronda de Valencia 127,Vigo,Castilla y León,36171,218,2023-12-28,2556.9770642201834
+Sotheby's,lista para construir,1578493,3,1,1.41,Calle Mayor 160,Valencia,Navarra,99670,482,2024-01-03,3274.8817427385893
+Realty One,lista para la venta,917266,5,3,1.31,Calle Alcalá 28,Murcia,Madrid,35045,371,2024-03-13,2472.4150943396226
+Compass,lista para construir,630619,1,1,0.95,Ronda de Valencia 166,Alicante,Asturias,68454,241,2024-03-09,2616.6763485477177
+Sotheby's,lista para construir,1034663,5,1,1.57,Avenida de la Constitución 182,Valladolid,Extremadura,71119,429,2023-12-25,2411.8018648018647
+Keller Williams,lista para construir,848654,5,3,0.7,Paseo de la Castellana 127,Córdoba,Castilla-La Mancha,41950,348,2023-08-29,2438.6609195402298
+Compass,lista para construir,640243,2,2,1.02,Plaza del Sol 90,Palma,Canarias,22931,240,2024-03-21,2667.679166666667
+Compass,lista para la venta,1036517,1,2,0.67,Plaza del Sol 163,Gijón,Andalucía,49524,483,2025-03-21,2145.9979296066253
+Berkshire Hathaway,lista para la venta,1174943,5,1,1.78,Plaza España 19,Las Palmas,Castilla-La Mancha,71195,456,2024-09-17,2576.629385964912
+Berkshire Hathaway,lista para la venta,476780,5,3,0.54,Plaza del Sol 45,Palma,Castilla-La Mancha,16770,130,2025-02-22,3667.5384615384614
+Realty One,lista para la venta,800548,1,1,1.78,Plaza del Sol 119,Alicante,País Vasco,94222,362,2024-08-05,2211.4585635359117
+Compass,lista para construir,626185,2,3,1.76,Calle Mayor 46,Sevilla,Castilla y León,45588,165,2023-12-28,3795.060606060606
+Century 21,lista para la venta,716893,1,2,1.31,Paseo de la Castellana 54,Valladolid,Castilla-La Mancha,79436,282,2024-06-19,2542.173758865248
+Sotheby's,lista para construir,554831,2,1,0.81,Avenida Diagonal 127,Valladolid,Madrid,48757,222,2023-06-01,2499.238738738739
+Berkshire Hathaway,lista para la venta,2349615,6,3,1.4,Paseo de la Castellana 38,Barcelona,Valencia,45234,493,2023-12-19,4765.953346855984
+Berkshire Hathaway,lista para construir,272027,1,2,1.78,Calle Alcalá 42,Zaragoza,Navarra,22917,70,2024-03-28,3886.1
+RE/MAX,lista para construir,833511,4,4,0.78,Paseo de la Castellana 75,Zaragoza,Castilla y León,44829,284,2024-07-11,2934.8978873239435
+Keller Williams,lista para la venta,406816,6,4,0.88,Paseo de la Castellana 33,Córdoba,Andalucía,94125,83,2024-09-01,4901.3975903614455
+RE/MAX,lista para la venta,474062,6,2,1.61,Plaza del Sol 164,Zaragoza,Galicia,96711,127,2024-04-21,3732.771653543307
+Coldwell Banker,lista para construir,372065,6,2,1.72,Avenida Diagonal 121,Murcia,Castilla-La Mancha,94149,57,2024-04-05,6527.456140350877
+eXp Realty,lista para la venta,490016,1,2,0.36,Avenida Diagonal 115,Córdoba,Extremadura,69459,218,2023-10-28,2247.7798165137615
+eXp Realty,lista para construir,1316901,3,1,1.93,Calle Alcalá 48,Málaga,Baleares,65712,431,2024-04-27,3055.4547563805104
+Coldwell Banker,lista para construir,1028823,2,1,0.97,Plaza España 197,Gijón,Asturias,34240,432,2025-02-21,2381.534722222222
+Realty One,lista para construir,854564,3,3,0.14,Calle Mayor 150,Córdoba,País Vasco,42641,396,2024-12-10,2157.989898989899
+Realty One,lista para construir,969963,3,4,1.45,Calle Mayor 159,Sevilla,País Vasco,60187,358,2023-09-27,2709.393854748603
+Berkshire Hathaway,lista para la venta,1086613,1,2,0.32,Calle Alcalá 86,Alicante,Extremadura,67435,493,2023-07-30,2204.083164300203
+Compass,lista para la venta,859346,1,2,0.95,Avenida de la Constitución 54,Gijón,Aragón,23955,346,2024-05-27,2483.658959537572
+Sotheby's,lista para la venta,996285,6,4,0.16,Calle Gran Vía 191,Barcelona,Murcia,53156,199,2024-08-17,5006.457286432161
+Realty One,lista para la venta,1557143,3,2,1.75,Calle Mayor 136,Madrid,Canarias,14317,313,2024-01-21,4974.897763578275
+Realty One,lista para construir,677452,1,1,1.03,Ronda de Valencia 89,Las Palmas,Andalucía,58882,263,2024-12-25,2575.8631178707224
+Keller Williams,lista para construir,548325,1,2,1.56,Plaza España 89,Murcia,Valencia,59013,197,2024-11-08,2783.3756345177667
+Compass,lista para construir,1307290,1,1,0.46,Calle Alcalá 89,Valencia,Extremadura,35714,422,2024-09-14,3097.8436018957345
+Keller Williams,lista para construir,487443,2,2,1.26,Calle Mayor 190,Córdoba,Extremadura,24247,193,2023-11-05,2525.6113989637306
+Realty One,lista para construir,528196,4,3,1.55,Calle Gran Vía 163,Sevilla,Baleares,52095,113,2023-10-18,4674.300884955752
+eXp Realty,lista para construir,1312141,2,3,1.59,Calle Mayor 122,Bilbao,Castilla y León,67182,384,2023-06-18,3417.0338541666665
+Compass,lista para la venta,1348272,1,2,0.86,Calle Mayor 176,Bilbao,Castilla-La Mancha,21239,417,2023-11-19,3233.26618705036
+eXp Realty,lista para construir,744224,1,1,0.47,Calle Mayor 97,Alicante,Castilla-La Mancha,69415,353,2024-04-29,2108.28328611898
+Sotheby's,lista para la venta,832191,1,2,1.7,Avenida Diagonal 101,Vigo,Baleares,68094,356,2025-01-16,2337.6151685393256
+RE/MAX,lista para la venta,370234,3,3,0.79,Calle Mayor 146,Valladolid,País Vasco,42431,107,2023-07-22,3460.1308411214955
+Realty One,lista para la venta,1561020,1,1,1.41,Calle Serrano 156,Madrid,Andalucía,55550,333,2024-03-17,4687.747747747748
+Berkshire Hathaway,lista para construir,829491,4,4,1.58,Plaza España 55,Murcia,Madrid,41261,298,2024-08-15,2783.526845637584
+Sotheby's,lista para la venta,368302,1,1,0.32,Paseo de la Castellana 68,Barcelona,Asturias,53140,79,2023-10-15,4662.050632911392
+Sotheby's,lista para la venta,723746,5,1,1.16,Calle Alcalá 23,Palma,Aragón,85996,282,2024-10-01,2566.4751773049647
+Century 21,lista para la venta,990726,2,2,0.53,Calle Alcalá 199,Valladolid,Canarias,82232,410,2024-05-12,2416.4048780487806
+Keller Williams,lista para construir,666136,6,4,1.79,Avenida Diagonal 123,Vigo,Madrid,10230,160,2023-11-19,4163.35
+Realty One,lista para la venta,1045820,6,4,1.76,Plaza del Sol 20,Sevilla,Castilla y León,54773,350,2024-09-02,2988.057142857143
+Keller Williams,lista para la venta,375617,3,1,0.65,Paseo de la Castellana 17,Barcelona,Madrid,44358,52,2023-06-04,7223.403846153846
+RE/MAX,lista para la venta,1539688,4,1,0.29,Calle Gran Vía 160,Valencia,Aragón,91866,490,2024-11-08,3142.2204081632653
+Berkshire Hathaway,lista para la venta,1271580,1,2,1.64,Ronda de Valencia 126,Valencia,Baleares,46417,424,2024-11-21,2999.009433962264
+Keller Williams,lista para la venta,911002,1,1,1.75,Plaza del Sol 75,Valladolid,Valencia,67168,393,2023-08-14,2318.0712468193383
+Keller Williams,lista para la venta,1047626,2,3,0.77,Ronda de Valencia 10,Gijón,Castilla-La Mancha,55575,443,2024-03-25,2364.844243792325
+Sotheby's,lista para construir,402992,3,2,1.75,Plaza España 85,Valencia,País Vasco,29675,69,2023-10-02,5840.463768115942
+Compass,lista para la venta,659641,1,1,1.71,Avenida de la Constitución 39,Gijón,Asturias,43384,254,2025-04-02,2597.011811023622
+Compass,lista para la venta,827951,2,1,1.21,Calle Alcalá 148,Bilbao,Madrid,96165,229,2024-05-29,3615.5065502183406
+Coldwell Banker,lista para construir,379316,1,1,1.28,Calle Mayor 45,Sevilla,Castilla-La Mancha,10943,106,2023-07-06,3578.4528301886794
+Keller Williams,lista para la venta,784136,5,4,0.91,Paseo de la Castellana 3,Bilbao,Andalucía,43692,173,2023-11-22,4532.578034682081
+eXp Realty,lista para construir,1411359,3,2,0.9,Calle Gran Vía 143,Bilbao,Murcia,88342,382,2025-01-15,3694.6570680628274
+Sotheby's,lista para construir,1062851,6,4,1.0,Calle Serrano 77,Vigo,Extremadura,42180,413,2024-04-15,2573.4891041162227
+Compass,lista para construir,627802,1,2,0.79,Ronda de Valencia 55,Sevilla,Asturias,37267,251,2024-12-13,2501.203187250996
+RE/MAX,lista para construir,280222,1,1,1.37,Calle Mayor 189,Madrid,Galicia,30334,50,2024-09-10,5604.44
+Coldwell Banker,lista para construir,592491,6,2,1.53,Avenida de la Constitución 176,Zaragoza,Cataluña,68744,161,2025-04-23,3680.0683229813662
+Sotheby's,lista para construir,557286,6,1,1.37,Calle Serrano 136,Palma,Navarra,25601,201,2024-07-22,2772.5671641791046
+Berkshire Hathaway,lista para la venta,772601,5,3,1.9,Plaza España 100,Gijón,Extremadura,21345,267,2025-03-27,2893.63670411985
+Sotheby's,lista para la venta,403690,1,1,0.24,Calle Serrano 53,Córdoba,Castilla-La Mancha,95164,160,2025-02-14,2523.0625
+Berkshire Hathaway,lista para construir,1031178,3,1,1.08,Calle Serrano 169,Vigo,Cataluña,97153,428,2024-08-03,2409.2943925233644
+Coldwell Banker,lista para construir,931053,3,3,1.04,Avenida Diagonal 189,Córdoba,Castilla-La Mancha,75622,389,2024-10-17,2393.452442159383
+eXp Realty,lista para la venta,1122895,5,1,1.37,Calle Serrano 42,Palma,Baleares,10633,434,2024-05-19,2587.3156682027648
+Compass,lista para construir,455447,2,3,0.68,Calle Gran Vía 59,Madrid,Galicia,19456,80,2025-01-03,5693.0875
+Keller Williams,lista para construir,1127608,6,3,1.58,Calle Gran Vía 160,Madrid,Canarias,97331,188,2024-06-19,5997.914893617021
+RE/MAX,lista para construir,702319,5,3,1.27,Avenida de la Constitución 87,Palma,Castilla y León,21108,220,2025-02-18,3192.359090909091
+Century 21,lista para la venta,485548,6,1,0.5,Ronda de Valencia 106,Valladolid,Murcia,68629,116,2024-11-03,4185.758620689655
+Realty One,lista para la venta,1111016,6,2,0.19,Calle Serrano 121,Bilbao,Andalucía,23174,305,2024-04-28,3642.6754098360657
+RE/MAX,lista para construir,791425,1,1,0.2,Plaza España 68,Valladolid,Andalucía,59423,325,2023-11-29,2435.153846153846
+RE/MAX,lista para la venta,546043,4,1,0.94,Avenida Diagonal 2,Vigo,Asturias,17378,215,2023-11-21,2539.73488372093
+Realty One,lista para construir,593325,5,4,0.57,Plaza España 171,Murcia,Asturias,92012,206,2024-08-21,2880.2184466019417
+Century 21,lista para construir,1091165,2,3,0.16,Avenida de la Constitución 139,Alicante,Valencia,63740,473,2024-11-18,2306.902748414376
+Keller Williams,lista para construir,740449,4,4,1.11,Calle Gran Vía 108,Alicante,País Vasco,43087,272,2024-05-31,2722.238970588235
+Berkshire Hathaway,lista para la venta,583614,1,1,0.49,Plaza del Sol 176,Gijón,Cataluña,22986,285,2024-08-13,2047.7684210526315
+RE/MAX,lista para construir,920882,5,1,0.89,Plaza España 114,Las Palmas,Asturias,81909,342,2023-12-10,2692.6374269005846
+Berkshire Hathaway,lista para construir,1174023,4,1,1.04,Ronda de Valencia 150,Madrid,Navarra,61064,231,2023-07-25,5082.350649350649
+RE/MAX,lista para la venta,1022357,4,1,0.26,Calle Mayor 191,Sevilla,Cataluña,28763,422,2023-12-18,2422.6469194312795
+eXp Realty,lista para la venta,2264967,4,4,1.04,Avenida de la Constitución 10,Madrid,Asturias,44345,453,2023-12-08,4999.92715231788
+Compass,lista para construir,318618,1,2,0.13,Calle Serrano 15,Córdoba,País Vasco,33417,109,2024-01-11,2923.1009174311926
+eXp Realty,lista para construir,743237,2,3,0.54,Ronda de Valencia 89,Sevilla,Murcia,80956,279,2024-06-13,2663.9318996415773
+Coldwell Banker,lista para construir,1262433,3,3,1.13,Ronda de Valencia 96,Málaga,Madrid,23575,392,2023-09-06,3220.4923469387754
+Sotheby's,lista para la venta,977778,4,1,1.98,Calle Gran Vía 84,Bilbao,Cataluña,77883,241,2023-11-10,4057.170124481328
+Sotheby's,lista para la venta,1269500,3,2,1.73,Paseo de la Castellana 114,Sevilla,Castilla y León,19820,482,2024-09-29,2633.817427385892
+RE/MAX,lista para la venta,830705,4,4,1.83,Calle Serrano 197,Madrid,Madrid,90995,113,2024-10-08,7351.371681415929
+Realty One,lista para la venta,639648,5,2,1.06,Plaza del Sol 129,Bilbao,Navarra,44584,148,2023-07-16,4321.945945945946
+Coldwell Banker,lista para la venta,1141512,4,1,1.02,Paseo de la Castellana 185,Bilbao,País Vasco,67664,318,2024-03-12,3589.6603773584907
+eXp Realty,lista para construir,1989223,4,4,0.78,Avenida Diagonal 135,Barcelona,Andalucía,15264,417,2024-06-15,4770.318944844124
+Century 21,lista para construir,1147041,1,1,1.12,Calle Mayor 174,Alicante,Navarra,88642,486,2024-03-18,2360.1666666666665
+Compass,lista para la venta,1135915,6,4,0.64,Ronda de Valencia 110,Vigo,Andalucía,25920,448,2023-10-23,2535.5245535714284
+Realty One,lista para la venta,1093595,4,4,1.48,Plaza del Sol 159,Alicante,Canarias,94640,414,2024-03-21,2641.5338164251207
+RE/MAX,lista para la venta,1062132,3,2,0.69,Calle Gran Vía 105,Valladolid,Galicia,54908,433,2025-02-24,2452.960739030023
+Berkshire Hathaway,lista para la venta,677252,4,3,1.64,Calle Alcalá 70,Valladolid,Madrid,81851,196,2024-07-14,3455.3673469387754
+RE/MAX,lista para construir,992364,3,2,1.74,Calle Gran Vía 194,Barcelona,Navarra,53569,193,2024-09-30,5141.782383419689
+Coldwell Banker,lista para la venta,818818,5,2,0.65,Calle Alcalá 136,Zaragoza,Galicia,37775,318,2025-01-21,2574.8993710691825
+Compass,lista para construir,309405,4,4,0.17,Plaza España 107,Murcia,Galicia,45828,90,2024-11-18,3437.8333333333335
+Berkshire Hathaway,lista para construir,1102658,5,1,1.33,Plaza del Sol 33,Palma,Murcia,96372,456,2024-02-22,2418.1096491228072
+Keller Williams,lista para la venta,993705,3,2,0.52,Calle Mayor 31,Córdoba,Baleares,47215,418,2023-06-05,2377.284688995215
+RE/MAX,lista para construir,593491,4,2,0.93,Calle Serrano 137,Barcelona,Navarra,57446,96,2024-02-02,6182.197916666667
+RE/MAX,lista para construir,964882,5,3,0.74,Ronda de Valencia 44,Málaga,Valencia,79173,320,2024-11-10,3015.25625
+Compass,lista para construir,1199973,5,1,1.2,Calle Mayor 92,Bilbao,Aragón,99273,329,2025-01-19,3647.334346504559
+Realty One,lista para la venta,683367,2,1,1.93,Avenida de la Constitución 180,Vigo,Canarias,49142,250,2025-03-30,2733.468
+Sotheby's,lista para construir,559300,4,3,1.89,Calle Alcalá 27,Córdoba,País Vasco,28033,134,2024-03-20,4173.880597014925
+Realty One,lista para la venta,334183,2,3,1.55,Ronda de Valencia 77,Vigo,Cataluña,65077,79,2024-11-06,4230.164556962025
+eXp Realty,lista para construir,377437,5,2,1.19,Paseo de la Castellana 14,Córdoba,Navarra,49074,92,2024-06-17,4102.576086956522
+Coldwell Banker,lista para construir,555182,4,3,1.03,Calle Alcalá 5,Sevilla,Canarias,33045,158,2024-07-27,3513.8101265822784
+Coldwell Banker,lista para construir,600695,5,2,0.63,Paseo de la Castellana 177,Zaragoza,Castilla y León,83326,239,2023-11-02,2513.36820083682
+Coldwell Banker,lista para la venta,512479,3,1,0.31,Plaza del Sol 18,Las Palmas,Murcia,39115,181,2023-11-01,2831.3756906077347
+RE/MAX,lista para construir,1268153,6,3,0.86,Calle Gran Vía 182,Madrid,Murcia,29590,244,2024-04-01,5197.348360655737
+Sotheby's,lista para la venta,1030532,6,1,1.38,Avenida de la Constitución 32,Córdoba,Andalucía,79768,398,2023-06-21,2589.2763819095476
+eXp Realty,lista para construir,737312,6,1,0.48,Avenida Diagonal 107,Palma,Cataluña,60496,300,2024-01-22,2457.7066666666665
+Sotheby's,lista para construir,648888,2,2,1.88,Plaza España 129,Alicante,Asturias,81965,245,2024-09-19,2648.522448979592
+Coldwell Banker,lista para construir,558942,3,3,1.52,Calle Mayor 80,Vigo,Valencia,24643,165,2024-03-10,3387.5272727272727
+Sotheby's,lista para la venta,1142258,2,2,1.06,Plaza España 196,Las Palmas,Extremadura,15638,474,2023-09-24,2409.8270042194094
+Keller Williams,lista para la venta,774310,4,1,0.14,Calle Alcalá 11,Sevilla,Baleares,81587,286,2024-04-23,2707.377622377622
+Compass,lista para construir,538969,5,3,0.48,Plaza del Sol 104,Zaragoza,Asturias,38104,197,2023-08-29,2735.8832487309646
+eXp Realty,lista para construir,1107809,5,1,0.32,Calle Alcalá 109,Bilbao,Cataluña,41543,331,2024-08-10,3346.85498489426
+Coldwell Banker,lista para la venta,897011,6,4,1.62,Calle Serrano 19,Palma,Asturias,95901,335,2023-06-19,2677.644776119403
+Compass,lista para la venta,1099113,1,2,1.71,Ronda de Valencia 142,Zaragoza,Madrid,53605,434,2024-03-03,2532.5184331797236
+RE/MAX,lista para construir,670830,4,1,1.09,Calle Serrano 154,Málaga,Madrid,59591,180,2024-06-30,3726.8333333333335
+eXp Realty,lista para construir,985582,3,2,1.9,Calle Serrano 196,Sevilla,Canarias,59751,362,2023-06-19,2722.6022099447514
+Realty One,lista para construir,1544555,1,2,1.63,Ronda de Valencia 46,Madrid,Extremadura,44368,299,2024-08-24,5165.735785953178
+Sotheby's,lista para construir,433149,6,1,0.67,Plaza del Sol 164,Alicante,Madrid,18578,97,2023-09-04,4465.453608247422
+Century 21,lista para construir,700995,3,3,1.38,Calle Mayor 73,Barcelona,Andalucía,52054,133,2024-04-19,5270.639097744361
+Coldwell Banker,lista para construir,1549335,6,1,0.43,Plaza España 149,Valencia,Andalucía,30533,493,2023-07-06,3142.6673427991886
+Sotheby's,lista para construir,937354,3,2,0.66,Plaza España 146,Gijón,Castilla-La Mancha,85070,404,2024-02-21,2320.1831683168316
+RE/MAX,lista para la venta,523662,3,1,1.35,Avenida Diagonal 4,Palma,Baleares,64107,181,2023-10-27,2893.160220994475
+Keller Williams,lista para la venta,320473,4,3,0.26,Calle Gran Vía 127,Las Palmas,Andalucía,42890,84,2024-01-16,3815.154761904762
+RE/MAX,lista para construir,952648,4,3,1.93,Paseo de la Castellana 168,Las Palmas,Cataluña,19487,343,2024-11-15,2777.399416909621
+eXp Realty,lista para construir,504191,4,2,0.43,Plaza España 197,Sevilla,Aragón,84641,174,2024-02-21,2897.6494252873563
+Berkshire Hathaway,lista para construir,514466,5,3,1.67,Paseo de la Castellana 6,Valencia,Asturias,36092,116,2024-11-09,4435.051724137931
+Keller Williams,lista para construir,1201592,1,2,1.29,Avenida Diagonal 172,Valencia,Valencia,90526,358,2025-01-04,3356.4022346368715
+Realty One,lista para la venta,497929,6,2,0.91,Plaza España 129,Vigo,Castilla y León,55467,160,2023-11-24,3112.05625
+Coldwell Banker,lista para la venta,759712,5,1,0.52,Calle Alcalá 120,Gijón,Aragón,15244,322,2023-07-28,2359.354037267081
+Century 21,lista para construir,1445622,6,1,1.37,Calle Gran Vía 186,Málaga,País Vasco,32624,495,2023-06-14,2920.448484848485
+Berkshire Hathaway,lista para construir,635659,4,2,0.97,Calle Serrano 121,Valencia,Castilla-La Mancha,34149,167,2024-06-13,3806.3413173652693
+Century 21,lista para construir,619965,1,1,1.25,Avenida de la Constitución 141,Murcia,Aragón,11081,227,2025-05-01,2731.123348017621
+Sotheby's,lista para construir,372171,5,4,0.58,Calle Gran Vía 131,Vigo,Canarias,71937,112,2024-02-01,3322.9553571428573
+Compass,lista para construir,748744,4,1,1.18,Calle Alcalá 156,Barcelona,Asturias,25280,144,2024-08-29,5199.611111111111
+Coldwell Banker,lista para construir,666583,5,3,1.85,Avenida Diagonal 79,Palma,Asturias,22164,209,2024-11-29,3189.3923444976076
+eXp Realty,lista para construir,693661,2,2,1.69,Avenida Diagonal 110,Las Palmas,Galicia,38182,255,2024-08-30,2720.2392156862743
+Keller Williams,lista para la venta,456663,6,3,0.67,Calle Gran Vía 85,Valencia,Canarias,26339,57,2024-11-10,8011.631578947368
+Keller Williams,lista para la venta,577041,2,2,1.36,Plaza del Sol 139,Murcia,Galicia,16814,186,2025-03-27,3102.3709677419356
+Coldwell Banker,lista para la venta,920603,1,1,1.5,Calle Alcalá 143,Alicante,Madrid,11824,376,2023-10-18,2448.4122340425533
+Keller Williams,lista para construir,462001,1,2,1.7,Paseo de la Castellana 20,Valladolid,Navarra,15266,149,2023-06-15,3100.6778523489934
+Keller Williams,lista para construir,587388,3,2,0.52,Plaza España 62,Alicante,Castilla-La Mancha,52772,186,2023-09-15,3158.0
+Sotheby's,lista para construir,747679,6,2,0.17,Calle Gran Vía 159,Málaga,Murcia,15340,191,2023-08-28,3914.549738219895
+RE/MAX,lista para construir,321177,6,2,1.65,Calle Serrano 150,Málaga,Navarra,25872,52,2024-09-12,6176.4807692307695
+RE/MAX,lista para construir,1028368,1,2,0.86,Calle Mayor 108,Zaragoza,Galicia,51983,446,2024-06-30,2305.7578475336322
+Coldwell Banker,lista para construir,2076896,4,3,1.86,Plaza España 177,Madrid,Extremadura,61029,407,2023-10-31,5102.938574938575
+Berkshire Hathaway,lista para la venta,799218,3,2,0.86,Ronda de Valencia 46,Valencia,Andalucía,40307,218,2024-10-03,3666.137614678899
+Keller Williams,lista para construir,990107,4,1,0.21,Paseo de la Castellana 146,Murcia,Madrid,65575,431,2024-11-19,2297.232018561485
+Sotheby's,lista para construir,717222,2,3,1.45,Plaza España 13,Murcia,Navarra,98603,243,2023-09-26,2951.5308641975307
+Sotheby's,lista para la venta,500574,6,2,0.29,Ronda de Valencia 120,Las Palmas,País Vasco,87870,129,2024-07-30,3880.4186046511627
+RE/MAX,lista para construir,845496,1,2,0.99,Calle Alcalá 83,Bilbao,Castilla y León,56275,235,2024-11-06,3597.8553191489364
+Compass,lista para construir,775217,5,3,0.34,Ronda de Valencia 144,Alicante,Valencia,59488,261,2023-08-20,2970.1800766283527
+Coldwell Banker,lista para construir,1400172,1,2,0.78,Avenida Diagonal 160,Madrid,Castilla y León,96899,286,2024-12-26,4895.706293706294
+RE/MAX,lista para construir,1373949,6,1,1.47,Calle Alcalá 192,Sevilla,Navarra,79143,496,2025-04-07,2770.0584677419356
+Century 21,lista para construir,2098297,4,2,1.97,Calle Gran Vía 44,Madrid,País Vasco,82513,418,2023-08-15,5019.849282296651
+eXp Realty,lista para construir,224582,1,1,0.2,Calle Gran Vía 191,Alicante,Valencia,44901,113,2023-06-19,1987.4513274336284
+Keller Williams,lista para construir,837456,1,1,1.37,Paseo de la Castellana 72,Palma,Baleares,56121,364,2024-01-05,2300.703296703297
+RE/MAX,lista para la venta,743853,4,4,1.46,Avenida Diagonal 56,Valladolid,Andalucía,83388,289,2024-09-17,2573.885813148789
+Sotheby's,lista para construir,1230320,6,3,0.73,Plaza del Sol 166,Gijón,Cataluña,50682,500,2025-04-02,2460.64
+eXp Realty,lista para la venta,474756,5,1,1.18,Plaza España 200,Bilbao,Valencia,91230,99,2024-03-05,4795.515151515152
+Realty One,lista para la venta,793303,6,4,0.24,Calle Alcalá 50,Alicante,Cataluña,89739,277,2024-10-14,2863.9097472924186
+Sotheby's,lista para construir,588039,2,3,1.92,Paseo de la Castellana 72,Córdoba,Valencia,28025,166,2023-07-24,3542.4036144578313
+Coldwell Banker,lista para construir,915768,5,4,1.04,Calle Alcalá 175,Gijón,Navarra,15026,316,2024-09-27,2898.0
+Compass,lista para la venta,315381,4,2,1.24,Calle Mayor 42,Vigo,Galicia,70668,93,2024-08-13,3391.1935483870966
+Realty One,lista para la venta,1518594,3,4,0.73,Calle Mayor 47,Málaga,Castilla-La Mancha,19031,489,2023-08-11,3105.5092024539877
+Coldwell Banker,lista para construir,747274,2,1,1.59,Plaza del Sol 164,Vigo,Castilla y León,63467,279,2024-11-23,2678.401433691756
+Berkshire Hathaway,lista para la venta,953766,1,2,1.86,Paseo de la Castellana 174,Valladolid,Madrid,99487,416,2025-01-17,2292.706730769231
+Berkshire Hathaway,lista para la venta,2077741,6,2,1.01,Plaza España 107,Barcelona,Andalucía,21012,436,2024-07-25,4765.461009174312
+Coldwell Banker,lista para la venta,1148518,4,2,0.29,Calle Mayor 194,Barcelona,Madrid,24115,254,2023-08-24,4521.724409448819
+Compass,lista para la venta,1029864,3,1,1.35,Calle Gran Vía 112,Córdoba,Castilla y León,70163,432,2025-04-20,2383.9444444444443
+Compass,lista para construir,1105327,2,1,1.85,Calle Mayor 121,Valladolid,Valencia,53323,499,2024-11-30,2215.0841683366734
+Berkshire Hathaway,lista para la venta,1002097,3,2,1.84,Calle Serrano 76,Gijón,Navarra,72190,373,2024-01-30,2686.5871313672924
+RE/MAX,lista para la venta,1014890,2,2,0.65,Calle Alcalá 130,Murcia,Aragón,46115,441,2024-03-27,2301.337868480726
+eXp Realty,lista para construir,1221175,4,3,0.33,Calle Serrano 23,Valladolid,País Vasco,40284,500,2024-02-15,2442.35
+Keller Williams,lista para la venta,1029470,1,2,1.04,Avenida Diagonal 68,Valencia,Castilla y León,67547,322,2024-05-20,3197.111801242236
+Sotheby's,lista para la venta,511918,2,3,0.27,Ronda de Valencia 73,Gijón,Extremadura,24485,209,2024-01-26,2449.3684210526317
+Keller Williams,lista para construir,397274,3,2,0.38,Avenida Diagonal 171,Vigo,Madrid,17686,129,2025-01-16,3079.6434108527133
+Keller Williams,lista para construir,1299392,6,4,0.82,Paseo de la Castellana 173,Valladolid,Murcia,80785,493,2024-12-28,2635.683569979716
+Realty One,lista para construir,1160593,1,2,0.71,Calle Alcalá 114,Valencia,Castilla y León,48221,400,2023-08-13,2901.4825
+Coldwell Banker,lista para construir,653437,6,3,1.75,Plaza del Sol 79,Alicante,Aragón,75838,164,2025-04-04,3984.371951219512
+Century 21,lista para la venta,1264695,6,4,1.44,Ronda de Valencia 46,Sevilla,Asturias,14149,454,2024-08-19,2785.671806167401
+Coldwell Banker,lista para construir,698403,3,2,1.67,Calle Gran Vía 193,Las Palmas,Madrid,64098,258,2025-01-01,2706.9883720930234
+Realty One,lista para la venta,1262624,5,4,1.96,Plaza España 112,Sevilla,Canarias,96535,433,2024-10-08,2915.990762124711
+Realty One,lista para la venta,1610592,1,2,1.97,Calle Serrano 76,Bilbao,Murcia,98738,469,2024-04-01,3434.098081023454
+Century 21,lista para la venta,996138,4,1,0.89,Calle Gran Vía 97,Alicante,Asturias,36508,391,2024-10-27,2547.6675191815857
+Compass,lista para la venta,884820,3,2,0.23,Plaza del Sol 35,Las Palmas,País Vasco,89743,351,2025-04-07,2520.8547008547007
+Realty One,lista para construir,1187304,6,2,1.04,Calle Gran Vía 198,Gijón,Baleares,89717,497,2023-12-07,2388.9416498993965
+Berkshire Hathaway,lista para construir,2423871,5,4,1.32,Avenida de la Constitución 56,Madrid,Castilla-La Mancha,75963,475,2024-12-18,5102.886315789474
+Century 21,lista para la venta,881671,5,1,0.48,Calle Gran Vía 145,Málaga,Andalucía,81556,274,2024-06-12,3217.7773722627735
+Century 21,lista para la venta,419881,5,4,0.3,Plaza del Sol 95,Murcia,Extremadura,18852,122,2024-05-04,3441.6475409836066
+RE/MAX,lista para construir,2275546,6,1,0.92,Avenida Diagonal 110,Barcelona,Madrid,62979,490,2024-04-01,4643.971428571429
+Century 21,lista para la venta,278436,1,1,0.78,Calle Mayor 175,Córdoba,País Vasco,67394,96,2024-10-25,2900.375
+Realty One,lista para construir,445490,3,4,0.54,Plaza del Sol 156,Gijón,Castilla-La Mancha,91346,142,2023-12-06,3137.2535211267605
+Coldwell Banker,lista para la venta,881418,3,3,0.6,Avenida de la Constitución 62,Gijón,Baleares,76826,340,2025-01-18,2592.4058823529413
+RE/MAX,lista para construir,1168566,3,4,1.32,Calle Gran Vía 34,Zaragoza,Aragón,35040,464,2025-01-03,2518.4612068965516
+Realty One,lista para construir,520794,6,2,1.42,Paseo de la Castellana 133,Murcia,Cataluña,80911,127,2023-07-31,4100.740157480315
+RE/MAX,lista para la venta,1134077,3,3,1.96,Avenida de la Constitución 181,Valladolid,Navarra,67582,465,2025-02-08,2438.8752688172044
+Sotheby's,lista para la venta,1130033,3,1,1.28,Avenida Diagonal 144,Bilbao,Andalucía,27094,305,2023-11-18,3705.0262295081966
+Berkshire Hathaway,lista para la venta,313406,3,1,0.48,Plaza del Sol 144,Murcia,Navarra,70224,112,2024-04-21,2798.2678571428573
+Coldwell Banker,lista para la venta,1008184,1,2,1.72,Calle Alcalá 64,Murcia,Extremadura,54034,396,2024-08-01,2545.919191919192
+Century 21,lista para construir,1213262,4,1,1.37,Plaza España 110,Bilbao,Canarias,58850,347,2024-02-21,3496.4322766570604
+Compass,lista para construir,1001325,6,2,1.27,Calle Alcalá 25,Las Palmas,Navarra,18069,399,2023-06-21,2509.5864661654136
+Coldwell Banker,lista para construir,1352618,3,4,0.21,Calle Mayor 195,Málaga,Asturias,33996,467,2025-01-17,2896.3982869379015
+Century 21,lista para construir,768669,5,4,0.17,Plaza del Sol 138,Alicante,Baleares,78548,315,2023-10-06,2440.2190476190476
+RE/MAX,lista para la venta,713357,2,2,1.91,Calle Gran Vía 76,Murcia,Extremadura,37530,227,2023-10-27,3142.541850220264
+Berkshire Hathaway,lista para la venta,613051,2,3,0.87,Calle Mayor 114,Málaga,Castilla-La Mancha,96976,168,2024-12-11,3649.1130952380954
+Century 21,lista para la venta,1502019,2,2,1.8,Avenida Diagonal 79,Valencia,Castilla y León,65289,465,2024-01-25,3230.148387096774
+eXp Realty,lista para la venta,810366,1,2,1.97,Calle Alcalá 99,Barcelona,Navarra,44727,138,2025-02-07,5872.217391304348
+Coldwell Banker,lista para construir,1072397,5,3,1.48,Avenida Diagonal 68,Murcia,Cataluña,54433,385,2024-10-04,2785.4467532467534
+Century 21,lista para construir,877932,4,2,1.13,Ronda de Valencia 42,Bilbao,Aragón,45610,212,2023-12-11,4141.188679245283
+Realty One,lista para construir,1245372,1,1,0.16,Paseo de la Castellana 3,Valencia,Extremadura,17406,411,2023-06-08,3030.102189781022
+Sotheby's,lista para construir,1108676,5,1,1.67,Calle Serrano 40,Vigo,Aragón,44756,406,2025-03-26,2730.729064039409
+eXp Realty,lista para la venta,472398,2,2,0.41,Calle Gran Vía 4,Murcia,Asturias,18355,156,2023-07-31,3028.1923076923076
+Berkshire Hathaway,lista para construir,1411748,6,1,1.65,Ronda de Valencia 70,Bilbao,Extremadura,57815,354,2024-10-17,3987.9887005649716
+Berkshire Hathaway,lista para la venta,637787,4,3,1.94,Ronda de Valencia 87,Valladolid,Navarra,22516,199,2024-05-08,3204.959798994975
+Realty One,lista para construir,1020516,2,3,0.59,Ronda de Valencia 158,Zaragoza,Murcia,81072,445,2024-11-13,2293.294382022472
+RE/MAX,lista para la venta,870049,3,1,0.62,Plaza del Sol 23,Las Palmas,Cataluña,70288,358,2024-09-27,2430.304469273743
+Sotheby's,lista para la venta,783002,2,1,1.92,Calle Mayor 50,Alicante,Asturias,12474,338,2024-08-26,2316.5739644970413
+Compass,lista para construir,719427,4,2,0.98,Avenida Diagonal 16,Sevilla,Valencia,55830,226,2024-05-10,3183.3053097345132
+RE/MAX,lista para la venta,321455,4,1,1.78,Paseo de la Castellana 68,Valladolid,Baleares,94165,53,2024-12-07,6065.188679245283
+Coldwell Banker,lista para construir,553182,4,4,1.94,Plaza España 190,Palma,Valencia,15304,176,2023-08-05,3143.0795454545455
+Compass,lista para la venta,1698064,4,2,0.43,Ronda de Valencia 87,Madrid,Castilla y León,67552,356,2023-11-03,4769.842696629214
+RE/MAX,lista para la venta,601866,4,1,0.13,Plaza España 184,Málaga,Cataluña,97933,202,2024-09-27,2979.5346534653463
+Realty One,lista para construir,2137321,2,1,1.74,Plaza del Sol 64,Madrid,Extremadura,46693,443,2024-01-01,4824.65237020316
+Compass,lista para la venta,475406,4,2,1.22,Calle Mayor 155,Madrid,Galicia,47079,56,2024-07-12,8489.392857142857
+Century 21,lista para construir,549904,1,1,1.92,Avenida Diagonal 23,Málaga,Murcia,75157,133,2024-04-27,4134.616541353384
+eXp Realty,lista para la venta,376023,6,2,0.84,Calle Mayor 62,Palma,Navarra,57107,105,2024-06-07,3581.1714285714284
+Compass,lista para construir,696630,4,2,0.53,Calle Mayor 90,Gijón,Cataluña,48480,280,2024-03-25,2487.964285714286
+Compass,lista para construir,969493,1,2,0.67,Calle Alcalá 50,Valladolid,País Vasco,86433,394,2024-11-04,2460.6421319796955
+eXp Realty,lista para construir,968716,5,4,0.15,Calle Gran Vía 134,Córdoba,Castilla-La Mancha,52312,384,2024-01-18,2522.6979166666665
+Keller Williams,lista para la venta,1185122,6,3,0.24,Calle Serrano 26,Murcia,Galicia,93723,481,2024-10-05,2463.871101871102
+Compass,lista para la venta,451440,6,1,0.49,Avenida de la Constitución 151,Vigo,Valencia,42938,117,2023-12-07,3858.4615384615386
+eXp Realty,lista para la venta,1227227,6,2,0.76,Ronda de Valencia 70,Málaga,Canarias,20579,413,2023-11-24,2971.4939467312347
+Realty One,lista para la venta,657221,5,3,0.24,Calle Mayor 196,Sevilla,Baleares,86475,221,2023-08-24,2973.8506787330316
+Century 21,lista para construir,976110,4,2,1.42,Calle Mayor 193,Las Palmas,Andalucía,28040,355,2023-10-14,2749.605633802817
+eXp Realty,lista para construir,775796,6,3,0.54,Calle Mayor 51,Las Palmas,Galicia,83774,246,2023-08-23,3153.642276422764
+RE/MAX,lista para la venta,1255288,5,1,1.36,Avenida de la Constitución 62,Bilbao,Madrid,32770,333,2024-06-10,3769.6336336336335
+eXp Realty,lista para construir,894135,2,2,0.29,Paseo de la Castellana 37,Palma,Castilla-La Mancha,97722,387,2024-11-16,2310.4263565891474
+RE/MAX,lista para la venta,874819,2,1,1.77,Avenida Diagonal 73,Vigo,Aragón,38404,363,2023-10-08,2409.969696969697
+Keller Williams,lista para construir,333846,3,3,0.41,Calle Alcalá 86,Valladolid,Andalucía,13634,118,2023-10-30,2829.2033898305085
+Berkshire Hathaway,lista para la venta,393794,1,1,1.58,Calle Gran Vía 155,Córdoba,Galicia,19060,136,2024-05-05,2895.544117647059
+Compass,lista para construir,665196,5,2,1.75,Calle Mayor 52,Córdoba,Cataluña,72267,196,2024-10-20,3393.8571428571427
+Coldwell Banker,lista para la venta,1211799,6,2,1.68,Calle Mayor 169,Las Palmas,Andalucía,69771,481,2025-04-15,2519.3326403326405
+Century 21,lista para construir,712557,4,3,1.52,Avenida de la Constitución 167,Palma,Andalucía,90941,248,2024-06-02,2873.2137096774195
+Sotheby's,lista para la venta,455161,6,2,0.41,Calle Gran Vía 128,Sevilla,Castilla y León,72717,98,2023-12-16,4644.5
+Compass,lista para construir,347474,5,2,1.11,Avenida de la Constitución 61,Sevilla,Castilla y León,72646,53,2023-08-10,6556.11320754717
+eXp Realty,lista para construir,1018906,3,4,1.31,Ronda de Valencia 132,Valencia,Castilla y León,87348,315,2023-10-15,3234.6222222222223
+Realty One,lista para construir,698992,1,2,1.96,Ronda de Valencia 195,Vigo,Aragón,76402,227,2023-11-07,3079.259911894273
+Sotheby's,lista para construir,579671,6,1,0.22,Avenida Diagonal 142,Bilbao,Canarias,14830,119,2023-10-04,4871.18487394958
+Compass,lista para construir,2252558,2,2,1.72,Calle Serrano 104,Barcelona,Asturias,36033,494,2023-06-10,4559.834008097166
+Berkshire Hathaway,lista para construir,1159781,2,3,1.68,Calle Serrano 191,Málaga,Andalucía,71951,369,2024-06-09,3143.0379403794036
+eXp Realty,lista para construir,1060288,1,2,0.27,Calle Gran Vía 199,Palma,Canarias,99954,465,2023-12-10,2280.189247311828
+eXp Realty,lista para la venta,350603,3,2,0.22,Avenida Diagonal 14,Valladolid,Canarias,61994,123,2025-04-13,2850.430894308943
+Berkshire Hathaway,lista para la venta,987623,4,4,1.79,Avenida de la Constitución 82,Málaga,Canarias,85016,295,2024-06-22,3347.8745762711865
+Realty One,lista para la venta,490438,4,4,1.62,Ronda de Valencia 156,Zaragoza,Asturias,56577,140,2024-10-01,3503.1285714285714
+Coldwell Banker,lista para la venta,1212903,6,3,1.86,Avenida de la Constitución 111,Valladolid,Madrid,19631,459,2023-08-28,2642.4901960784314
+Berkshire Hathaway,lista para construir,551185,3,3,1.8,Calle Alcalá 181,Las Palmas,Baleares,63733,156,2025-01-29,3533.2371794871797
+Century 21,lista para construir,2064059,3,1,1.47,Calle Serrano 24,Barcelona,Madrid,61570,444,2024-05-10,4648.781531531532
+Berkshire Hathaway,lista para construir,753791,1,1,1.92,Avenida de la Constitución 96,Zaragoza,Murcia,88998,327,2025-02-01,2305.1712538226298
+Compass,lista para construir,1021437,3,2,1.0,Avenida de la Constitución 64,Valladolid,Aragón,13652,415,2024-07-07,2461.2939759036144
+Coldwell Banker,lista para la venta,796350,1,2,0.31,Plaza del Sol 188,Bilbao,Valencia,16014,224,2024-04-25,3555.1339285714284
+Sotheby's,lista para la venta,507993,1,1,0.42,Calle Mayor 128,Valencia,Andalucía,90450,156,2024-04-04,3256.3653846153848
+Compass,lista para la venta,357279,3,1,1.72,Calle Serrano 66,Vigo,Castilla y León,89087,104,2023-10-08,3435.375
+Sotheby's,lista para construir,364276,6,4,0.22,Avenida de la Constitución 42,Vigo,Asturias,15254,50,2023-07-07,7285.52
+Coldwell Banker,lista para la venta,725487,5,2,1.78,Avenida de la Constitución 191,Sevilla,Extremadura,68452,234,2025-03-21,3100.371794871795
+Compass,lista para construir,1536098,3,1,1.36,Paseo de la Castellana 117,Barcelona,Asturias,67925,338,2024-04-30,4544.668639053254
+Realty One,lista para la venta,502075,2,3,1.32,Ronda de Valencia 54,Málaga,Castilla-La Mancha,51334,124,2024-12-28,4048.9919354838707
+Realty One,lista para construir,1245778,2,2,1.69,Avenida de la Constitución 45,Madrid,Canarias,69614,241,2024-03-07,5169.203319502075
+Century 21,lista para construir,1317879,1,2,1.84,Calle Alcalá 104,Málaga,Galicia,76441,414,2023-07-22,3183.282608695652
+Century 21,lista para construir,1106479,2,1,0.96,Plaza España 75,Málaga,Baleares,75112,382,2024-08-15,2896.5418848167537
+Keller Williams,lista para la venta,938036,4,1,1.65,Avenida de la Constitución 104,Málaga,Valencia,76022,264,2023-07-08,3553.1666666666665
+Century 21,lista para construir,953829,3,4,0.25,Ronda de Valencia 170,Madrid,Murcia,62595,181,2023-09-13,5269.773480662983
+Realty One,lista para construir,196097,1,1,0.6,Plaza España 120,Zaragoza,Canarias,16248,63,2024-06-29,3112.6507936507937
+Realty One,lista para la venta,913138,6,2,0.81,Calle Alcalá 170,Zaragoza,Cataluña,89760,367,2023-12-30,2488.114441416894
+eXp Realty,lista para la venta,585267,1,2,1.1,Paseo de la Castellana 46,Zaragoza,Madrid,79822,230,2025-04-27,2544.6391304347826
+Keller Williams,lista para construir,825660,3,4,0.34,Paseo de la Castellana 51,Madrid,Extremadura,30576,143,2023-08-23,5773.846153846154
+Century 21,lista para la venta,1044239,2,2,0.62,Avenida Diagonal 82,Valencia,Galicia,62916,330,2024-11-17,3164.360606060606
+Sotheby's,lista para la venta,278728,5,2,1.13,Calle Alcalá 37,Zaragoza,Galicia,81579,69,2024-07-30,4039.536231884058
+Sotheby's,lista para la venta,347904,3,3,1.1,Plaza España 140,Córdoba,Madrid,12160,75,2024-12-06,4638.72
+Century 21,lista para la venta,566999,2,2,1.02,Paseo de la Castellana 10,Las Palmas,Navarra,68114,173,2023-11-06,3277.450867052023
+Realty One,lista para construir,882624,6,2,0.57,Calle Gran Vía 188,Murcia,Madrid,55275,313,2024-06-01,2819.884984025559
+Sotheby's,lista para la venta,619495,6,1,1.01,Plaza del Sol 144,Málaga,Valencia,60435,135,2024-04-11,4588.851851851852
+Berkshire Hathaway,lista para construir,705106,1,2,1.02,Avenida de la Constitución 57,Alicante,Galicia,89898,306,2024-04-06,2304.267973856209
+Realty One,lista para construir,384890,3,2,0.39,Calle Alcalá 123,Valladolid,Galicia,38509,92,2025-01-23,4183.586956521739
+Berkshire Hathaway,lista para la venta,1391916,6,3,0.83,Calle Mayor 21,Bilbao,País Vasco,58766,357,2025-04-25,3898.924369747899
+Coldwell Banker,lista para la venta,1210919,4,2,0.8,Ronda de Valencia 116,Málaga,Extremadura,40971,420,2024-01-01,2883.140476190476
+Berkshire Hathaway,lista para construir,839969,6,3,1.56,Paseo de la Castellana 78,Alicante,Andalucía,64160,273,2024-08-09,3076.809523809524
+Realty One,lista para la venta,584250,1,2,0.59,Calle Mayor 27,Alicante,Asturias,68241,261,2024-08-01,2238.5057471264367
+Keller Williams,lista para la venta,784014,1,2,1.69,Avenida de la Constitución 13,Las Palmas,Navarra,85371,288,2024-10-31,2722.2708333333335
+Compass,lista para la venta,847720,4,2,0.52,Calle Gran Vía 4,Madrid,Andalucía,13045,138,2025-03-26,6142.898550724638
+eXp Realty,lista para la venta,1290545,1,1,0.21,Ronda de Valencia 121,Valencia,Valencia,53952,415,2023-10-24,3109.746987951807
+Realty One,lista para construir,966384,4,2,0.65,Calle Alcalá 66,Palma,Asturias,76663,362,2023-10-26,2669.5690607734805
+Compass,lista para la venta,500224,3,4,1.36,Avenida de la Constitución 120,Málaga,Canarias,48914,127,2024-09-05,3938.771653543307
+Coldwell Banker,lista para la venta,1567933,2,3,1.31,Paseo de la Castellana 140,Barcelona,Canarias,30360,342,2023-09-19,4584.599415204679
+Sotheby's,lista para la venta,1232168,3,4,1.5,Calle Serrano 6,Madrid,Galicia,20408,236,2023-09-30,5221.050847457627
+Century 21,lista para la venta,1587420,5,1,1.59,Plaza España 108,Bilbao,Navarra,75144,465,2023-07-23,3413.8064516129034
+Berkshire Hathaway,lista para la venta,937071,1,1,1.98,Avenida de la Constitución 78,Murcia,Valencia,69846,360,2023-06-02,2602.975
+Keller Williams,lista para la venta,325268,1,1,1.04,Calle Gran Vía 127,Murcia,Madrid,10766,130,2024-04-11,2502.0615384615385
+RE/MAX,lista para construir,834088,5,1,1.58,Calle Mayor 30,Las Palmas,Valencia,94559,286,2024-07-21,2916.3916083916083
+RE/MAX,lista para construir,572916,1,2,1.25,Calle Serrano 156,Barcelona,País Vasco,62014,106,2023-12-22,5404.867924528302
+Compass,lista para la venta,1528245,5,1,0.93,Ronda de Valencia 123,Barcelona,Asturias,44778,307,2023-11-10,4977.99674267101
+Keller Williams,lista para la venta,590940,6,4,0.24,Calle Mayor 9,Córdoba,Murcia,83473,176,2024-10-08,3357.6136363636365
+Berkshire Hathaway,lista para la venta,858929,3,3,0.64,Plaza España 36,Málaga,Extremadura,97727,288,2024-10-05,2982.3923611111113
+Century 21,lista para la venta,432762,5,3,0.81,Calle Mayor 39,Alicante,Cataluña,45210,97,2024-04-14,4461.4639175257735
+Century 21,lista para la venta,665772,6,1,1.96,Ronda de Valencia 59,Valencia,Extremadura,79505,125,2024-09-24,5326.176
+Sotheby's,lista para la venta,916708,5,3,0.69,Avenida Diagonal 116,Gijón,Valencia,56649,391,2025-03-09,2344.521739130435
+Century 21,lista para construir,825177,1,1,1.41,Plaza del Sol 83,Málaga,Aragón,48775,249,2024-12-04,3313.9638554216867
+Sotheby's,lista para la venta,876383,4,4,1.17,Plaza del Sol 184,Córdoba,Cataluña,12465,333,2024-08-12,2631.780780780781
+Century 21,lista para construir,1630163,2,3,1.73,Avenida Diagonal 101,Madrid,Asturias,34997,325,2024-09-06,5015.886153846154
+RE/MAX,lista para construir,606662,1,2,1.98,Avenida de la Constitución 121,Las Palmas,Navarra,79539,249,2025-03-16,2436.393574297189
+Realty One,lista para la venta,584449,1,2,0.77,Ronda de Valencia 37,Zaragoza,Aragón,14361,230,2024-03-25,2541.082608695652
+Coldwell Banker,lista para construir,915677,5,3,0.35,Plaza España 94,Alicante,Cataluña,77068,344,2024-06-16,2661.8517441860463
+Coldwell Banker,lista para construir,895751,2,2,1.53,Calle Mayor 48,Murcia,Asturias,98422,396,2024-08-27,2261.997474747475
+Sotheby's,lista para la venta,739124,1,2,0.25,Avenida Diagonal 182,Barcelona,Cataluña,25601,142,2025-02-26,5205.098591549296
+eXp Realty,lista para la venta,790904,2,3,1.6,Plaza del Sol 54,Málaga,Cataluña,42539,207,2024-12-31,3820.792270531401
+Coldwell Banker,lista para construir,534907,5,2,0.61,Calle Gran Vía 110,Barcelona,Canarias,56092,83,2023-07-21,6444.6626506024095
+Realty One,lista para construir,1185308,2,2,0.92,Avenida de la Constitución 184,Madrid,Castilla y León,30830,220,2023-09-25,5387.763636363637
+Compass,lista para construir,616138,1,2,1.05,Avenida Diagonal 7,Murcia,Canarias,55424,236,2024-01-02,2610.7542372881358
+Realty One,lista para la venta,959945,5,3,1.17,Calle Gran Vía 103,Sevilla,Galicia,86811,306,2024-11-07,3137.075163398693
+Berkshire Hathaway,lista para construir,694571,5,2,0.11,Calle Alcalá 191,Valencia,Murcia,31350,216,2024-07-04,3215.6064814814813
+Compass,lista para construir,363440,4,2,0.59,Calle Gran Vía 59,Sevilla,Castilla-La Mancha,12688,81,2023-12-20,4486.913580246914
+Sotheby's,lista para construir,873307,2,2,0.59,Calle Mayor 177,Murcia,Navarra,90976,340,2023-08-27,2568.55
+Realty One,lista para construir,703975,5,1,1.72,Avenida Diagonal 13,Madrid,País Vasco,59934,96,2024-09-25,7333.072916666667
+Keller Williams,lista para la venta,1530167,6,1,1.09,Calle Mayor 165,Bilbao,Valencia,40871,443,2024-10-03,3454.10158013544
+eXp Realty,lista para construir,615914,4,1,0.4,Ronda de Valencia 138,Valladolid,Galicia,83819,273,2025-03-22,2256.095238095238
+Realty One,lista para la venta,320961,3,3,0.56,Calle Gran Vía 48,Murcia,Andalucía,33517,96,2024-05-16,3343.34375
+Berkshire Hathaway,lista para la venta,863722,3,3,1.83,Calle Alcalá 62,Málaga,Galicia,30064,245,2024-05-12,3525.395918367347
+RE/MAX,lista para construir,996749,1,2,1.27,Ronda de Valencia 30,Málaga,País Vasco,69139,348,2023-07-27,2864.2212643678163
+Berkshire Hathaway,lista para la venta,742537,6,2,1.61,Ronda de Valencia 107,Valladolid,Aragón,39231,260,2023-06-28,2855.9115384615384
+Realty One,lista para la venta,991933,1,2,1.68,Plaza España 25,Sevilla,País Vasco,14449,393,2024-03-29,2524.002544529262
+Berkshire Hathaway,lista para construir,1122264,3,3,0.44,Calle Alcalá 75,Gijón,Canarias,34686,460,2024-01-12,2439.704347826087
+Realty One,lista para construir,1832146,1,1,0.37,Avenida de la Constitución 22,Madrid,Madrid,12950,375,2023-11-23,4885.722666666667
+Century 21,lista para construir,1172539,5,1,1.11,Calle Gran Vía 131,Sevilla,Madrid,98177,454,2023-08-04,2582.685022026432
+Sotheby's,lista para la venta,860605,1,2,0.71,Calle Gran Vía 49,Madrid,Galicia,82706,162,2025-04-05,5312.376543209876
+Sotheby's,lista para la venta,955478,1,1,0.26,Plaza del Sol 139,Palma,Murcia,81949,466,2025-01-07,2050.3819742489272
+eXp Realty,lista para construir,1182065,5,3,1.72,Calle Gran Vía 89,Córdoba,Navarra,80347,451,2024-07-08,2620.9866962305987
+Realty One,lista para la venta,422366,6,1,1.27,Paseo de la Castellana 167,Murcia,Murcia,93953,94,2025-03-28,4493.255319148936
+Coldwell Banker,lista para la venta,368205,5,1,0.12,Plaza España 60,Alicante,Valencia,85953,80,2025-05-01,4602.5625
+Sotheby's,lista para la venta,1162369,5,1,1.26,Paseo de la Castellana 97,Palma,Asturias,44712,499,2024-09-14,2329.396793587174
+Sotheby's,lista para construir,645404,6,4,1.12,Calle Alcalá 156,Sevilla,Murcia,60040,159,2023-12-06,4059.14465408805
+RE/MAX,lista para construir,1093639,1,1,0.16,Calle Gran Vía 175,Sevilla,Castilla-La Mancha,50277,490,2023-06-29,2231.9163265306124
+Keller Williams,lista para construir,767380,2,1,0.17,Calle Serrano 20,Alicante,Aragón,51521,329,2024-11-12,2332.4620060790276
+Compass,lista para construir,2139423,4,2,1.84,Calle Gran Vía 130,Barcelona,Murcia,23071,458,2024-04-25,4671.229257641921
+Realty One,lista para construir,541776,3,4,0.78,Plaza del Sol 129,Murcia,Murcia,50383,173,2024-08-30,3131.6531791907514
+eXp Realty,lista para construir,905509,4,4,0.87,Calle Gran Vía 28,Sevilla,Castilla-La Mancha,73494,297,2025-03-04,3048.8518518518517
+Realty One,lista para la venta,1010240,6,4,0.41,Avenida de la Constitución 65,Málaga,País Vasco,64693,276,2023-10-06,3660.289855072464
+RE/MAX,lista para construir,699100,6,1,1.82,Calle Alcalá 94,Valladolid,Navarra,90189,251,2024-07-15,2785.2589641434265
+Coldwell Banker,lista para construir,838254,2,2,0.61,Calle Serrano 71,Las Palmas,País Vasco,80286,347,2024-08-18,2415.7175792507205
+Berkshire Hathaway,lista para la venta,755443,5,1,1.26,Plaza España 97,Zaragoza,Aragón,29802,248,2024-05-10,3046.141129032258
+Sotheby's,lista para la venta,329964,1,1,1.85,Plaza del Sol 62,Palma,Navarra,47247,53,2023-08-03,6225.735849056604
+Berkshire Hathaway,lista para la venta,833317,6,1,1.86,Paseo de la Castellana 133,Murcia,Madrid,63258,295,2024-01-30,2824.8033898305084
+Realty One,lista para construir,691359,3,1,0.31,Avenida Diagonal 60,Valladolid,Asturias,26292,310,2024-01-20,2230.190322580645
+Realty One,lista para la venta,1376489,2,2,1.72,Avenida de la Constitución 144,Madrid,Murcia,68134,268,2024-09-12,5136.1529850746265
+Coldwell Banker,lista para la venta,822342,1,2,0.89,Avenida Diagonal 136,Palma,Murcia,31902,315,2025-01-22,2610.609523809524
+Berkshire Hathaway,lista para construir,857886,2,1,1.85,Calle Gran Vía 144,Vigo,País Vasco,95496,308,2024-01-18,2785.344155844156
+Berkshire Hathaway,lista para construir,1514101,1,1,1.51,Plaza España 17,Valencia,País Vasco,73988,470,2024-09-29,3221.491489361702
+Realty One,lista para la venta,1947595,2,2,1.31,Avenida de la Constitución 87,Barcelona,País Vasco,98693,430,2023-12-20,4529.290697674419
+Sotheby's,lista para la venta,926034,4,3,0.46,Calle Gran Vía 152,Zaragoza,Baleares,63248,361,2025-03-24,2565.191135734072
+Sotheby's,lista para construir,1106495,5,2,0.78,Calle Gran Vía 183,Valladolid,Galicia,47573,467,2024-12-22,2369.368308351178
+Century 21,lista para la venta,310729,3,1,0.1,Ronda de Valencia 158,Córdoba,Andalucía,97441,112,2024-06-20,2774.3660714285716
+Realty One,lista para construir,1192408,5,3,0.98,Avenida Diagonal 57,Alicante,Asturias,34508,477,2024-04-14,2499.8071278825996
+RE/MAX,lista para construir,862433,4,4,1.44,Avenida de la Constitución 77,Murcia,Canarias,75765,296,2024-01-07,2913.625
+Realty One,lista para la venta,840560,4,2,1.32,Calle Alcalá 2,Palma,Navarra,21172,317,2024-01-13,2651.608832807571
+RE/MAX,lista para la venta,461550,2,1,1.09,Calle Alcalá 150,Murcia,Navarra,14224,196,2025-04-11,2354.8469387755104
+Berkshire Hathaway,lista para construir,662747,2,2,1.89,Calle Mayor 10,Las Palmas,Aragón,76711,235,2024-03-10,2820.2
+eXp Realty,lista para la venta,497328,5,4,1.36,Calle Serrano 189,Valladolid,Castilla y León,96232,151,2024-05-26,3293.562913907285
+Century 21,lista para la venta,1500254,6,3,1.62,Calle Gran Vía 131,Barcelona,Cataluña,57648,304,2025-04-23,4935.046052631579
+Compass,lista para construir,382478,3,1,1.18,Paseo de la Castellana 199,Alicante,Galicia,42045,109,2024-09-04,3508.97247706422
+Century 21,lista para la venta,642963,3,3,0.37,Calle Gran Vía 166,Córdoba,Valencia,14362,227,2024-06-15,2832.4361233480176
+Sotheby's,lista para construir,730285,1,1,0.3,Ronda de Valencia 57,Alicante,Madrid,49585,338,2024-03-16,2160.6065088757396
+Sotheby's,lista para la venta,342141,1,2,1.94,Plaza del Sol 107,Gijón,Aragón,66398,60,2023-10-10,5702.35
+Century 21,lista para la venta,486791,2,1,0.61,Ronda de Valencia 150,Palma,País Vasco,30634,164,2024-02-09,2968.237804878049
+Berkshire Hathaway,lista para la venta,2095676,4,2,0.55,Avenida de la Constitución 18,Madrid,Cataluña,50291,425,2024-11-12,4931.0023529411765
+Century 21,lista para la venta,1621502,5,3,1.62,Calle Mayor 119,Bilbao,Castilla-La Mancha,82327,453,2024-08-12,3579.474613686534
+Keller Williams,lista para construir,742752,1,2,1.35,Ronda de Valencia 189,Córdoba,Castilla y León,92808,269,2024-11-14,2761.1598513011154
+eXp Realty,lista para construir,812739,2,3,1.5,Plaza España 85,Sevilla,Cataluña,72011,275,2023-10-21,2955.4145454545455
+Coldwell Banker,lista para construir,763420,5,4,1.69,Avenida de la Constitución 29,Murcia,Castilla-La Mancha,18490,262,2024-06-20,2913.8167938931297
+eXp Realty,lista para construir,877581,1,1,0.35,Plaza del Sol 5,Valladolid,Murcia,38587,412,2025-03-12,2130.0509708737864
+eXp Realty,lista para la venta,668315,1,2,1.71,Ronda de Valencia 75,Madrid,Andalucía,65340,104,2024-04-03,6426.1057692307695
+RE/MAX,lista para construir,1212921,4,1,1.37,Paseo de la Castellana 120,Bilbao,Galicia,17325,338,2024-10-02,3588.523668639053
+Realty One,lista para construir,632843,3,3,1.46,Calle Alcalá 177,Sevilla,Extremadura,34559,196,2023-08-25,3228.7908163265306
+RE/MAX,lista para construir,1193704,6,3,1.55,Calle Serrano 79,Málaga,Valencia,96182,355,2025-04-13,3362.5464788732393
+eXp Realty,lista para la venta,804015,3,3,0.73,Paseo de la Castellana 62,Córdoba,Extremadura,26210,333,2024-07-31,2414.4594594594596
+Coldwell Banker,lista para construir,519340,2,1,1.15,Calle Serrano 155,Palma,Asturias,42553,164,2023-11-15,3166.7073170731705
+Berkshire Hathaway,lista para construir,1525052,4,3,0.87,Avenida de la Constitución 186,Madrid,Baleares,22947,288,2023-09-20,5295.319444444444
+Sotheby's,lista para la venta,1370674,3,3,1.03,Plaza España 181,Bilbao,Galicia,52769,381,2024-06-21,3597.5695538057744
+RE/MAX,lista para la venta,904734,3,1,1.26,Paseo de la Castellana 29,Bilbao,Valencia,67401,227,2024-06-22,3985.6123348017622
+Berkshire Hathaway,lista para la venta,273052,2,3,0.47,Ronda de Valencia 169,Sevilla,Asturias,81753,89,2023-08-05,3068.0
+Coldwell Banker,lista para la venta,323706,1,2,1.18,Calle Alcalá 190,Sevilla,Aragón,32632,67,2025-04-26,4831.432835820896
+eXp Realty,lista para la venta,796980,5,3,1.37,Calle Gran Vía 55,Palma,Asturias,61336,242,2025-03-01,3293.305785123967
+Compass,lista para construir,1122651,2,1,1.5,Avenida de la Constitución 102,Valencia,Baleares,66785,351,2024-04-19,3198.4358974358975
+eXp Realty,lista para la venta,963040,6,1,1.89,Avenida Diagonal 170,Las Palmas,Valencia,12322,353,2023-08-22,2728.158640226629
+Berkshire Hathaway,lista para construir,1285956,4,2,0.12,Calle Mayor 115,Madrid,Extremadura,79379,259,2025-01-04,4965.081081081081
+Sotheby's,lista para la venta,1314959,3,2,0.87,Plaza España 137,Málaga,Castilla y León,27494,473,2024-05-15,2780.040169133192
+Sotheby's,lista para construir,776798,1,2,1.22,Ronda de Valencia 124,Vigo,Murcia,80366,327,2024-10-15,2375.5290519877676
+eXp Realty,lista para la venta,1035851,2,1,1.4,Avenida de la Constitución 14,Madrid,Navarra,80869,186,2024-05-22,5569.091397849463
+Berkshire Hathaway,lista para construir,1278172,4,4,1.27,Calle Serrano 195,Bilbao,Baleares,21038,346,2023-12-09,3694.1387283236995
+Compass,lista para construir,921494,5,3,0.27,Plaza España 30,Bilbao,Asturias,62277,247,2025-01-06,3730.744939271255
+Keller Williams,lista para la venta,374244,2,1,1.28,Calle Mayor 75,Sevilla,Asturias,10789,131,2025-04-18,2856.8244274809163
+eXp Realty,lista para construir,316845,3,3,0.78,Paseo de la Castellana 187,Gijón,Asturias,55594,68,2023-11-18,4659.485294117647
+Realty One,lista para construir,475122,1,1,0.56,Paseo de la Castellana 31,Alicante,Castilla y León,22138,178,2024-06-21,2669.224719101124
+Sotheby's,lista para la venta,2277011,2,3,1.49,Plaza España 137,Barcelona,Galicia,31270,483,2024-02-24,4714.308488612836
+Compass,lista para construir,641568,5,3,1.85,Calle Serrano 30,Murcia,Valencia,44117,186,2025-03-08,3449.2903225806454
+Coldwell Banker,lista para la venta,479492,3,4,1.31,Avenida de la Constitución 40,Sevilla,Andalucía,33256,106,2024-05-22,4523.509433962264
+Sotheby's,lista para construir,655206,5,4,1.53,Ronda de Valencia 186,Sevilla,Asturias,41820,201,2025-02-06,3259.731343283582
+Compass,lista para la venta,764423,6,1,1.0,Calle Mayor 97,Zaragoza,Asturias,33894,301,2025-01-26,2539.611295681063
+eXp Realty,lista para la venta,592837,1,2,1.1,Avenida Diagonal 21,Las Palmas,Asturias,70682,236,2023-12-11,2512.021186440678
+Realty One,lista para la venta,1090531,1,2,0.87,Ronda de Valencia 82,Valladolid,Asturias,20298,463,2024-12-05,2355.3585313174945
+Compass,lista para la venta,550736,4,1,1.44,Avenida de la Constitución 58,Córdoba,Extremadura,62255,167,2024-03-17,3297.820359281437
+Compass,lista para la venta,443524,1,2,0.17,Calle Gran Vía 192,Murcia,Cataluña,57779,213,2025-03-16,2082.2723004694835
+RE/MAX,lista para construir,1201920,5,3,1.47,Calle Alcalá 102,Palma,Aragón,37308,485,2024-05-21,2478.185567010309
+Realty One,lista para la venta,385074,4,3,1.05,Calle Serrano 100,Murcia,Cataluña,40375,107,2024-12-27,3598.822429906542
+Berkshire Hathaway,lista para construir,518216,3,3,1.61,Calle Serrano 84,Vigo,Cataluña,57765,137,2023-12-16,3782.598540145985
+Sotheby's,lista para construir,242093,3,4,0.99,Plaza España 34,Córdoba,Valencia,84975,55,2023-12-27,4401.690909090909
+Compass,lista para construir,968691,1,1,0.94,Calle Gran Vía 141,Bilbao,Aragón,10387,292,2024-07-16,3317.4349315068494
+Century 21,lista para la venta,604938,2,1,0.96,Calle Alcalá 196,Alicante,Aragón,89740,229,2025-05-01,2641.650655021834
+Berkshire Hathaway,lista para construir,332598,5,3,1.16,Ronda de Valencia 79,Vigo,Canarias,22887,55,2024-05-09,6047.236363636363
+Sotheby's,lista para la venta,493901,5,1,1.38,Plaza del Sol 178,Vigo,Navarra,83367,129,2023-09-13,3828.68992248062
+eXp Realty,lista para construir,1025233,1,1,1.07,Calle Serrano 121,Málaga,Asturias,58635,340,2024-06-12,3015.391176470588
+Century 21,lista para la venta,904455,6,3,1.55,Paseo de la Castellana 28,Zaragoza,Murcia,61040,284,2024-01-28,3184.700704225352
+Compass,lista para la venta,794573,2,1,0.61,Ronda de Valencia 27,Gijón,Andalucía,90529,368,2024-06-21,2159.165760869565
+eXp Realty,lista para construir,356538,4,2,0.73,Calle Gran Vía 2,Alicante,Castilla y León,31701,123,2024-06-15,2898.682926829268
+Sotheby's,lista para construir,1461052,2,2,0.43,Calle Alcalá 47,Valencia,País Vasco,57824,475,2024-04-15,3075.898947368421
+eXp Realty,lista para la venta,724026,5,3,1.77,Ronda de Valencia 90,Murcia,Baleares,37779,261,2024-01-12,2774.0459770114944
+RE/MAX,lista para la venta,1228303,1,2,1.16,Ronda de Valencia 188,Barcelona,Castilla-La Mancha,45540,262,2023-10-11,4688.179389312977
+Sotheby's,lista para construir,1045997,6,1,0.57,Avenida Diagonal 19,Gijón,Baleares,35065,399,2024-10-01,2621.5463659147867
+Keller Williams,lista para la venta,568733,1,2,1.67,Plaza del Sol 85,Murcia,Valencia,46013,214,2024-07-05,2657.6308411214955
+Century 21,lista para construir,1155098,5,4,0.82,Paseo de la Castellana 113,Vigo,Galicia,29239,461,2023-11-11,2505.6355748373103
+Realty One,lista para construir,1108783,6,1,1.45,Avenida de la Constitución 26,Zaragoza,Valencia,63045,458,2024-11-25,2420.9235807860264
+eXp Realty,lista para la venta,752473,5,4,0.4,Calle Mayor 39,Palma,Castilla-La Mancha,94091,241,2023-07-01,3122.294605809129
+Compass,lista para construir,1062754,4,1,0.97,Calle Mayor 7,Zaragoza,Madrid,78915,477,2024-11-04,2227.9958071278825
+RE/MAX,lista para la venta,627069,1,1,1.11,Plaza del Sol 124,Alicante,Navarra,72864,259,2024-10-07,2421.1158301158302
+Keller Williams,lista para construir,2221652,3,1,0.89,Calle Serrano 13,Madrid,Murcia,92454,464,2024-12-20,4788.043103448276
+RE/MAX,lista para construir,1504296,2,1,1.2,Ronda de Valencia 23,Bilbao,Castilla-La Mancha,24028,452,2024-02-26,3328.0884955752213
+Berkshire Hathaway,lista para la venta,1540071,5,3,0.56,Plaza España 11,Madrid,Aragón,54673,291,2024-09-08,5292.340206185567
+Realty One,lista para la venta,435293,5,2,0.82,Calle Alcalá 135,Gijón,Aragón,37842,154,2024-12-27,2826.5779220779223
+RE/MAX,lista para construir,775261,3,3,0.58,Ronda de Valencia 12,Barcelona,Navarra,54363,139,2025-04-18,5577.417266187051
+RE/MAX,lista para construir,376908,5,1,0.17,Avenida Diagonal 197,Las Palmas,Baleares,98593,134,2024-05-13,2812.7462686567164
+Coldwell Banker,lista para la venta,999692,2,3,1.97,Avenida Diagonal 34,Sevilla,País Vasco,79759,332,2023-06-26,3011.120481927711
+eXp Realty,lista para construir,441027,4,1,0.32,Plaza España 58,Gijón,Murcia,31235,134,2024-05-18,3291.2462686567164
+Coldwell Banker,lista para construir,341604,3,2,1.82,Avenida de la Constitución 163,Gijón,Aragón,46966,59,2024-07-18,5789.8983050847455
+Coldwell Banker,lista para construir,2052453,6,3,1.94,Avenida Diagonal 66,Madrid,País Vasco,87151,402,2025-01-30,5105.604477611941
+eXp Realty,lista para la venta,405614,4,3,0.48,Avenida Diagonal 173,Málaga,Extremadura,37124,79,2025-02-02,5134.354430379747
+Keller Williams,lista para construir,1047349,6,1,1.31,Calle Alcalá 132,Córdoba,Asturias,84695,403,2024-04-04,2598.8808933002483
+Compass,lista para la venta,425718,5,2,0.88,Avenida Diagonal 168,Córdoba,Castilla y León,44614,143,2024-06-03,2977.048951048951
+Realty One,lista para la venta,631800,3,4,1.88,Ronda de Valencia 124,Alicante,Murcia,78455,201,2024-04-16,3143.283582089552
+Coldwell Banker,lista para construir,1048722,3,1,0.57,Avenida Diagonal 7,Zaragoza,País Vasco,17775,489,2024-10-19,2144.6257668711655
+Realty One,lista para la venta,517949,6,2,0.21,Avenida Diagonal 61,Las Palmas,País Vasco,87248,153,2024-03-14,3385.2875816993464
+RE/MAX,lista para la venta,1233546,1,1,1.74,Calle Alcalá 21,Sevilla,Galicia,50288,464,2024-09-02,2658.5043103448274
+Realty One,lista para la venta,749929,2,3,0.14,Calle Mayor 50,Bilbao,Navarra,78486,213,2023-09-17,3520.7934272300467
+Coldwell Banker,lista para la venta,1069515,5,4,0.11,Paseo de la Castellana 169,Alicante,Murcia,22968,424,2024-04-25,2522.441037735849
+Realty One,lista para la venta,2182027,5,1,1.78,Calle Mayor 122,Barcelona,Castilla y León,36268,476,2025-04-10,4584.0903361344535
+RE/MAX,lista para construir,1090924,6,1,1.85,Plaza España 137,Murcia,Castilla-La Mancha,29054,390,2024-01-24,2797.2410256410258
+Compass,lista para construir,814734,3,2,0.29,Paseo de la Castellana 175,Valladolid,Extremadura,80830,317,2024-09-28,2570.1388012618295
+Compass,lista para construir,1013283,5,1,1.87,Calle Mayor 145,Málaga,Valencia,71427,273,2024-08-29,3711.6593406593406
+Berkshire Hathaway,lista para la venta,441276,5,2,1.91,Paseo de la Castellana 39,Sevilla,Castilla y León,56894,84,2025-01-18,5253.285714285715
+Berkshire Hathaway,lista para construir,499135,2,2,0.61,Plaza España 129,Sevilla,Aragón,22468,176,2025-01-18,2835.994318181818
+Keller Williams,lista para construir,891871,1,1,1.11,Avenida Diagonal 160,Las Palmas,Madrid,26810,353,2025-01-23,2526.5467422096317
+Coldwell Banker,lista para construir,356435,5,2,1.9,Plaza del Sol 92,Vigo,Aragón,83320,60,2024-02-22,5940.583333333333
+Coldwell Banker,lista para la venta,729955,2,3,1.29,Avenida Diagonal 176,Barcelona,Madrid,85342,135,2024-01-08,5407.074074074074
+Sotheby's,lista para la venta,851783,2,1,0.42,Calle Mayor 181,Sevilla,Madrid,45976,365,2024-10-16,2333.6520547945206
+Berkshire Hathaway,lista para construir,381042,5,1,1.77,Plaza España 6,Murcia,Madrid,18186,97,2024-11-14,3928.2680412371133
+Realty One,lista para construir,1526033,4,4,0.99,Plaza del Sol 66,Bilbao,Asturias,10622,406,2025-02-01,3758.7019704433496
+Berkshire Hathaway,lista para la venta,957968,1,2,0.81,Plaza del Sol 23,Alicante,Cataluña,51739,457,2023-06-26,2096.210065645514
+eXp Realty,lista para construir,386633,1,2,0.8,Paseo de la Castellana 188,Córdoba,Madrid,69675,139,2023-07-18,2781.5323741007196
+Sotheby's,lista para construir,1071312,1,1,0.39,Calle Mayor 39,Bilbao,Canarias,94855,309,2024-08-16,3467.029126213592
+Berkshire Hathaway,lista para la venta,816619,4,4,1.91,Calle Mayor 46,Córdoba,Murcia,65430,294,2025-03-07,2777.6156462585036
+Sotheby's,lista para construir,657802,4,3,0.17,Plaza del Sol 22,Palma,Galicia,76102,242,2025-04-30,2718.190082644628
+Sotheby's,lista para la venta,464399,1,2,1.46,Avenida Diagonal 52,Zaragoza,Cataluña,69041,135,2024-11-05,3439.9925925925927
+Century 21,lista para la venta,733585,3,3,0.66,Avenida de la Constitución 167,Valencia,Baleares,62860,219,2024-03-31,3349.703196347032
+Berkshire Hathaway,lista para la venta,512110,2,2,1.84,Paseo de la Castellana 132,Las Palmas,Aragón,16854,182,2023-08-09,2813.7912087912086
+Coldwell Banker,lista para la venta,1159020,4,2,1.45,Calle Serrano 36,Las Palmas,Canarias,61068,460,2024-08-18,2519.608695652174
+Realty One,lista para la venta,339881,1,1,0.42,Calle Mayor 126,Vigo,Baleares,83007,164,2025-02-01,2072.4451219512193
+Compass,lista para la venta,927632,5,3,1.28,Plaza España 162,Las Palmas,Murcia,81998,376,2024-04-07,2467.1063829787236
+eXp Realty,lista para la venta,372464,3,3,1.3,Calle Mayor 124,Málaga,Madrid,73921,61,2024-09-29,6105.9672131147545
+RE/MAX,lista para construir,762662,1,1,1.85,Ronda de Valencia 114,Córdoba,Castilla-La Mancha,52201,328,2025-02-23,2325.189024390244
+eXp Realty,lista para construir,1752720,2,3,0.76,Calle Mayor 181,Madrid,Madrid,64713,361,2023-07-03,4855.180055401662
+Berkshire Hathaway,lista para la venta,197538,3,1,0.29,Avenida de la Constitución 119,Valladolid,Castilla-La Mancha,18474,50,2024-12-10,3950.76
+Century 21,lista para construir,2050657,1,1,1.96,Avenida de la Constitución 194,Barcelona,Andalucía,71781,437,2023-12-23,4692.578947368421
+Realty One,lista para la venta,761264,1,2,1.74,Calle Mayor 127,Sevilla,Asturias,14054,285,2024-02-18,2671.101754385965
+Compass,lista para la venta,877455,4,4,1.03,Avenida de la Constitución 88,Valladolid,Extremadura,30758,357,2023-09-11,2457.8571428571427
+Realty One,lista para construir,1079461,1,2,1.66,Ronda de Valencia 186,Palma,Castilla y León,92076,457,2024-06-07,2362.059080962801
+eXp Realty,lista para construir,901193,4,1,0.48,Plaza España 124,Bilbao,Castilla y León,18426,230,2024-07-01,3918.230434782609
+Sotheby's,lista para la venta,998130,5,3,0.49,Calle Serrano 36,Vigo,Castilla y León,52887,412,2024-12-07,2422.645631067961
+Berkshire Hathaway,lista para construir,634996,6,3,1.44,Avenida de la Constitución 99,Alicante,Canarias,90990,183,2023-09-28,3469.9234972677596
+Century 21,lista para la venta,851171,1,2,0.76,Avenida Diagonal 146,Valladolid,Madrid,37540,363,2023-07-26,2344.823691460055
+RE/MAX,lista para construir,757501,4,3,0.71,Calle Alcalá 176,Valladolid,Baleares,29586,288,2025-01-31,2630.2118055555557
+Century 21,lista para la venta,445614,2,3,1.3,Plaza España 127,Palma,Baleares,17017,134,2024-08-08,3325.4776119402986
+RE/MAX,lista para construir,637933,4,2,1.82,Calle Mayor 185,Gijón,Galicia,44279,231,2023-11-16,2761.6147186147186
+Realty One,lista para construir,823692,5,3,0.87,Plaza España 73,Alicante,Navarra,88161,326,2025-03-01,2526.6625766871166
+eXp Realty,lista para la venta,664523,4,4,1.01,Calle Serrano 34,Murcia,Valencia,98290,214,2023-09-09,3105.2476635514017
+Realty One,lista para construir,425549,6,4,1.8,Calle Serrano 159,Valladolid,Navarra,79881,68,2024-04-19,6258.073529411765
+Coldwell Banker,lista para la venta,1349626,4,3,1.1,Plaza del Sol 184,Bilbao,Canarias,45984,357,2023-11-26,3780.464985994398
+Realty One,lista para la venta,998629,6,2,0.36,Avenida Diagonal 101,Barcelona,Andalucía,61598,196,2023-11-26,5095.0459183673465
+Century 21,lista para la venta,1417407,1,1,0.33,Avenida de la Constitución 30,Valencia,Asturias,45056,482,2023-06-07,2940.6784232365144
+eXp Realty,lista para construir,1074784,6,4,1.84,Calle Alcalá 179,Gijón,Asturias,31327,367,2024-12-16,2928.566757493188
+Keller Williams,lista para construir,465339,2,3,1.1,Plaza del Sol 117,Málaga,Valencia,80527,124,2025-02-21,3752.733870967742
+Sotheby's,lista para la venta,1074778,6,3,1.92,Ronda de Valencia 175,Alicante,Baleares,20325,421,2024-09-18,2552.916864608076
+Century 21,lista para construir,399480,1,2,0.9,Ronda de Valencia 4,Valencia,Murcia,89359,122,2023-09-19,3274.4262295081967
+Realty One,lista para la venta,316765,3,1,1.29,Paseo de la Castellana 169,Bilbao,Murcia,76022,71,2024-04-05,4461.478873239436
+eXp Realty,lista para construir,1273842,4,4,1.52,Calle Mayor 66,Madrid,Navarra,39132,218,2024-01-29,5843.311926605505
+Compass,lista para construir,810539,2,2,0.72,Calle Serrano 24,Málaga,Valencia,21179,257,2024-07-16,3153.848249027237
+Coldwell Banker,lista para construir,1314648,2,3,0.22,Avenida de la Constitución 79,Bilbao,Cataluña,68006,409,2024-08-21,3214.2982885085576
+RE/MAX,lista para la venta,903980,3,4,0.5,Calle Serrano 133,Valencia,Canarias,59337,272,2024-03-24,3323.455882352941
+Realty One,lista para construir,2385752,3,3,0.56,Calle Gran Vía 109,Madrid,Asturias,48677,496,2023-11-23,4809.9838709677415
+Realty One,lista para construir,674490,3,4,0.4,Calle Serrano 191,Vigo,Castilla y León,83824,270,2025-01-13,2498.1111111111113
+eXp Realty,lista para la venta,744333,4,1,1.84,Ronda de Valencia 154,Palma,Canarias,80199,302,2023-10-18,2464.67880794702
+RE/MAX,lista para construir,516758,5,2,1.07,Calle Serrano 142,Zaragoza,Andalucía,13878,144,2024-02-25,3588.597222222222
+eXp Realty,lista para la venta,1218143,1,2,1.96,Calle Serrano 161,Valencia,Asturias,86907,385,2024-05-04,3164.007792207792
+eXp Realty,lista para construir,2162129,2,2,0.75,Ronda de Valencia 49,Madrid,País Vasco,28525,462,2023-11-14,4679.9329004329
+RE/MAX,lista para la venta,627312,1,1,0.73,Avenida de la Constitución 124,Valencia,Valencia,43633,183,2024-07-05,3427.934426229508
+Keller Williams,lista para construir,391029,2,2,1.17,Plaza del Sol 121,Sevilla,Navarra,27949,140,2024-07-07,2793.0642857142857
+Berkshire Hathaway,lista para construir,724010,2,1,1.64,Calle Alcalá 77,Córdoba,País Vasco,75711,263,2025-04-26,2752.889733840304
+Compass,lista para la venta,1010764,6,2,0.8,Paseo de la Castellana 196,Málaga,Murcia,28830,315,2023-12-24,3208.7746031746033
+Sotheby's,lista para la venta,997502,5,1,0.69,Calle Mayor 189,Córdoba,Galicia,26293,398,2025-04-16,2506.286432160804
+Berkshire Hathaway,lista para construir,1223377,5,1,1.23,Avenida de la Constitución 33,Sevilla,Cataluña,67403,469,2024-09-04,2608.4797441364603
+Sotheby's,lista para construir,1664082,5,3,1.81,Paseo de la Castellana 67,Barcelona,Castilla y León,21058,348,2023-12-10,4781.8448275862065
+Realty One,lista para construir,1195714,3,3,1.52,Ronda de Valencia 115,Alicante,Cataluña,69329,468,2024-07-01,2554.9444444444443
+Sotheby's,lista para construir,1216455,5,2,1.67,Calle Mayor 182,Sevilla,Castilla-La Mancha,47283,453,2024-09-23,2685.3311258278145
+RE/MAX,lista para la venta,827780,2,2,0.56,Calle Alcalá 102,Zaragoza,Aragón,85621,332,2024-11-04,2493.3132530120483
+Compass,lista para la venta,1272003,1,2,0.58,Paseo de la Castellana 175,Málaga,Madrid,55758,438,2023-07-05,2904.1164383561645
+Sotheby's,lista para la venta,1060188,1,1,0.88,Avenida Diagonal 31,Madrid,Asturias,58036,201,2024-07-30,5274.567164179104
+Century 21,lista para construir,1788236,6,1,1.63,Calle Alcalá 1,Madrid,Castilla y León,35422,332,2024-05-14,5386.253012048192
+Century 21,lista para la venta,612894,3,4,1.95,Plaza del Sol 135,Valladolid,Asturias,46899,181,2025-02-23,3386.1546961325967
+Berkshire Hathaway,lista para construir,709157,5,4,0.14,Plaza España 92,Valladolid,Navarra,69665,256,2023-12-18,2770.14453125
+Keller Williams,lista para construir,459563,2,3,1.3,Avenida Diagonal 29,Gijón,Andalucía,85933,149,2024-12-12,3084.3154362416108
+Berkshire Hathaway,lista para construir,475919,3,1,1.45,Ronda de Valencia 191,Zaragoza,Navarra,76826,136,2024-07-30,3499.404411764706
+Coldwell Banker,lista para la venta,832301,2,1,0.38,Calle Gran Vía 53,Alicante,Galicia,15286,355,2024-02-02,2344.5098591549295
+Century 21,lista para la venta,318984,3,3,0.59,Avenida de la Constitución 107,Las Palmas,Canarias,58805,61,2024-08-20,5229.245901639344
+Coldwell Banker,lista para la venta,613879,5,3,1.68,Calle Gran Vía 195,Murcia,Andalucía,39441,189,2024-08-09,3248.037037037037
+Berkshire Hathaway,lista para la venta,747548,3,3,1.86,Calle Alcalá 29,Málaga,Navarra,73520,173,2024-09-18,4321.086705202312
+Compass,lista para la venta,1365300,3,3,1.27,Ronda de Valencia 189,Bilbao,Galicia,23407,371,2024-10-18,3680.053908355795
+Sotheby's,lista para construir,444995,4,4,1.1,Calle Gran Vía 50,Palma,Madrid,86918,118,2024-09-05,3771.14406779661
+Berkshire Hathaway,lista para la venta,710576,4,4,0.51,Calle Gran Vía 148,Madrid,Baleares,39153,101,2025-01-08,7035.40594059406
+Keller Williams,lista para construir,1177039,3,1,1.6,Calle Mayor 152,Zaragoza,Madrid,50602,480,2024-08-14,2452.164583333333
+Keller Williams,lista para la venta,1055997,6,4,1.92,Calle Alcalá 137,Madrid,Navarra,77428,181,2025-02-23,5834.237569060773
+Sotheby's,lista para construir,1066617,3,4,1.32,Calle Gran Vía 133,Palma,Andalucía,46511,441,2024-08-27,2418.6326530612246
+Sotheby's,lista para la venta,644082,5,3,1.41,Calle Gran Vía 72,Vigo,Castilla-La Mancha,70756,216,2024-01-03,2981.8611111111113
+Sotheby's,lista para la venta,888046,5,1,1.21,Calle Mayor 186,Vigo,Canarias,62034,361,2024-04-05,2459.961218836565
+Keller Williams,lista para construir,255629,1,2,0.17,Calle Serrano 100,Córdoba,Valencia,22675,59,2024-07-11,4332.6949152542375
+eXp Realty,lista para construir,786292,4,3,0.48,Calle Gran Vía 181,Zaragoza,Aragón,51240,336,2024-10-26,2340.154761904762
+Realty One,lista para la venta,1025208,3,1,0.35,Plaza España 192,Vigo,Castilla-La Mancha,46523,448,2023-08-03,2288.410714285714
+Compass,lista para la venta,1724117,2,3,1.74,Calle Alcalá 167,Madrid,País Vasco,14651,356,2023-12-24,4843.025280898876
+Coldwell Banker,lista para construir,525893,6,3,1.61,Plaza España 13,Málaga,Galicia,35936,125,2024-11-05,4207.144
+Sotheby's,lista para construir,273843,1,2,1.12,Ronda de Valencia 93,Murcia,Andalucía,15425,105,2023-10-02,2608.0285714285715
+Berkshire Hathaway,lista para la venta,1397517,2,3,1.83,Calle Gran Vía 135,Bilbao,Cataluña,96087,390,2023-09-01,3583.376923076923
+Coldwell Banker,lista para construir,520008,2,1,0.54,Calle Gran Vía 16,Vigo,Extremadura,82852,205,2024-06-13,2536.6243902439023
+Realty One,lista para construir,1232517,4,2,0.46,Calle Mayor 5,Sevilla,Castilla y León,35765,487,2025-04-12,2530.835728952772
+Coldwell Banker,lista para la venta,534993,4,4,0.38,Ronda de Valencia 89,Sevilla,Galicia,89259,186,2024-06-07,2876.3064516129034
+Coldwell Banker,lista para la venta,961270,1,2,0.97,Avenida Diagonal 183,Alicante,Asturias,56123,390,2025-03-02,2464.7948717948716
+Compass,lista para construir,919519,1,2,1.32,Plaza España 75,Valladolid,País Vasco,65350,395,2025-01-03,2327.8962025316455
+eXp Realty,lista para la venta,704901,4,1,1.36,Calle Serrano 122,Alicante,Cataluña,46073,244,2023-11-28,2888.938524590164
+eXp Realty,lista para la venta,955651,2,1,0.73,Avenida de la Constitución 9,Vigo,Canarias,25926,452,2024-12-30,2114.272123893805
+Realty One,lista para construir,265151,4,1,1.99,Plaza del Sol 196,Vigo,País Vasco,45964,56,2024-05-03,4734.839285714285
+Keller Williams,lista para la venta,1097410,6,2,1.71,Calle Mayor 49,Bilbao,Valencia,64578,273,2024-12-17,4019.8168498168498
+Century 21,lista para construir,435181,6,3,0.28,Avenida de la Constitución 34,Sevilla,Extremadura,69929,76,2024-11-05,5726.065789473684
+eXp Realty,lista para construir,674704,4,1,1.02,Calle Gran Vía 182,Alicante,Extremadura,98396,286,2024-01-24,2359.104895104895
+Berkshire Hathaway,lista para la venta,1268737,5,1,0.8,Calle Serrano 52,Málaga,País Vasco,43007,390,2023-08-20,3253.1717948717946
+eXp Realty,lista para construir,820717,4,4,1.13,Calle Mayor 79,Las Palmas,Murcia,73001,307,2025-04-05,2673.345276872964
+eXp Realty,lista para construir,480103,5,1,1.87,Ronda de Valencia 24,Sevilla,Galicia,88264,92,2023-09-07,5218.510869565217
+Sotheby's,lista para la venta,719302,3,2,1.64,Calle Alcalá 86,Alicante,Madrid,86939,259,2025-04-08,2777.227799227799
+Keller Williams,lista para construir,412999,1,2,0.82,Ronda de Valencia 2,Málaga,Valencia,93542,103,2025-01-23,4009.6990291262136
+Coldwell Banker,lista para construir,698003,5,4,0.79,Paseo de la Castellana 101,Las Palmas,Baleares,68685,245,2024-10-20,2848.991836734694
+RE/MAX,lista para construir,678257,5,3,0.8,Calle Alcalá 68,Vigo,Extremadura,56775,217,2025-04-17,3125.6082949308757
+Keller Williams,lista para construir,439957,2,3,1.29,Paseo de la Castellana 166,Madrid,Baleares,84412,58,2025-04-09,7585.4655172413795
+Compass,lista para la venta,1029162,6,1,0.94,Plaza del Sol 94,Murcia,Cataluña,77394,386,2024-12-16,2666.222797927461
+Keller Williams,lista para construir,772217,6,1,0.86,Calle Alcalá 79,Valladolid,Murcia,42043,248,2024-02-12,3113.7782258064517
+Coldwell Banker,lista para la venta,778087,6,3,1.56,Calle Serrano 197,Córdoba,Extremadura,16611,240,2024-12-06,3242.0291666666667
+Berkshire Hathaway,lista para la venta,1463060,1,2,1.11,Plaza España 74,Málaga,Madrid,10359,494,2023-06-10,2961.65991902834
+Century 21,lista para la venta,1229628,6,1,1.24,Calle Mayor 171,Valencia,País Vasco,27992,383,2024-06-11,3210.5169712793736
+Compass,lista para la venta,822064,4,1,1.0,Plaza del Sol 170,Sevilla,Canarias,91814,327,2024-04-14,2513.9571865443427
+RE/MAX,lista para construir,2078594,4,4,1.83,Calle Gran Vía 167,Madrid,Galicia,16015,409,2024-09-14,5082.136919315403
+Sotheby's,lista para la venta,975530,6,1,1.38,Calle Alcalá 63,Córdoba,Castilla-La Mancha,32760,369,2024-09-14,2643.7127371273714
+Coldwell Banker,lista para la venta,468121,1,1,0.37,Plaza del Sol 36,Murcia,Baleares,44328,163,2024-07-14,2871.9079754601225
+Coldwell Banker,lista para la venta,380107,5,2,1.14,Plaza España 23,Córdoba,Extremadura,14841,74,2024-12-28,5136.581081081081
+RE/MAX,lista para construir,662569,4,3,1.39,Avenida Diagonal 142,Málaga,Andalucía,58634,161,2025-03-21,4115.335403726708
+Berkshire Hathaway,lista para construir,344622,2,1,1.55,Calle Alcalá 73,Alicante,Galicia,81540,119,2023-08-15,2895.983193277311
+Compass,lista para construir,2437653,4,1,1.83,Avenida Diagonal 68,Madrid,Aragón,86205,491,2023-11-11,4964.670061099796
+RE/MAX,lista para la venta,1379171,6,1,1.71,Calle Mayor 12,Málaga,Baleares,44660,428,2023-06-18,3222.36214953271
+Keller Williams,lista para construir,1280111,3,2,1.86,Avenida Diagonal 148,Barcelona,Murcia,66377,245,2025-02-09,5224.942857142857
+Compass,lista para construir,976857,3,4,0.3,Ronda de Valencia 44,Zaragoza,Asturias,23323,435,2024-06-28,2245.648275862069
+Berkshire Hathaway,lista para la venta,230596,1,2,0.12,Calle Mayor 23,Sevilla,Madrid,37967,82,2025-03-03,2812.1463414634145
+Coldwell Banker,lista para la venta,1343563,3,3,0.45,Paseo de la Castellana 155,Barcelona,Castilla-La Mancha,26304,279,2023-11-03,4815.637992831541
+RE/MAX,lista para construir,331589,4,2,0.66,Calle Mayor 114,Zaragoza,Baleares,53372,53,2023-07-15,6256.396226415094
+Sotheby's,lista para la venta,767007,6,1,0.54,Avenida de la Constitución 52,Alicante,Madrid,22405,283,2024-12-29,2710.272084805654
+Berkshire Hathaway,lista para la venta,528198,5,4,0.58,Calle Gran Vía 199,Palma,Galicia,84994,175,2025-02-27,3018.2742857142857
+Berkshire Hathaway,lista para la venta,647709,6,2,0.18,Plaza España 173,Vigo,Asturias,71394,232,2023-12-29,2791.8491379310344
+Keller Williams,lista para la venta,782329,3,3,0.17,Avenida de la Constitución 100,Alicante,Canarias,95996,350,2024-03-13,2235.2257142857143
+Coldwell Banker,lista para la venta,1626274,5,4,1.97,Ronda de Valencia 3,Valencia,Extremadura,61540,457,2023-09-06,3558.5864332603937
+Compass,lista para construir,378999,1,1,1.91,Avenida de la Constitución 49,Murcia,Baleares,12283,106,2025-03-25,3575.4622641509436
+Century 21,lista para construir,335262,1,2,0.92,Plaza del Sol 195,Valladolid,Aragón,99438,109,2023-12-31,3075.798165137615
+Coldwell Banker,lista para la venta,1067016,5,3,0.67,Avenida Diagonal 179,Las Palmas,Canarias,82650,448,2024-05-11,2381.7321428571427
+Sotheby's,lista para la venta,807922,2,3,1.87,Avenida de la Constitución 132,Málaga,Asturias,63576,246,2023-08-08,3284.2357723577234
+Keller Williams,lista para la venta,713849,1,1,1.54,Calle Serrano 30,Alicante,Castilla-La Mancha,72093,323,2025-02-11,2210.0588235294117
+Sotheby's,lista para la venta,925461,4,3,1.34,Plaza España 114,Las Palmas,Baleares,35940,377,2023-09-04,2454.8037135278514
+Compass,lista para construir,946611,6,1,0.78,Plaza España 25,Vigo,Navarra,73406,361,2024-04-14,2622.191135734072
+RE/MAX,lista para la venta,906752,5,1,1.46,Paseo de la Castellana 194,Madrid,Madrid,52830,164,2024-09-13,5528.975609756098
+Sotheby's,lista para la venta,812121,3,1,1.26,Avenida de la Constitución 126,Alicante,Murcia,69047,361,2024-11-02,2249.6426592797784
+RE/MAX,lista para construir,353378,5,3,0.54,Avenida Diagonal 49,Palma,Asturias,18231,55,2025-03-25,6425.054545454545
+RE/MAX,lista para construir,471412,2,2,1.16,Calle Mayor 78,Valladolid,Aragón,11633,125,2024-03-20,3771.296
+Keller Williams,lista para construir,534565,1,1,0.38,Ronda de Valencia 183,Bilbao,Asturias,12964,145,2024-11-02,3686.655172413793
+Century 21,lista para construir,864644,3,2,1.3,Plaza España 80,Murcia,Castilla y León,70154,345,2023-09-17,2506.2144927536233
+Century 21,lista para construir,905269,5,2,0.66,Calle Gran Vía 183,Madrid,Aragón,12716,164,2024-03-17,5519.932926829269
+Century 21,lista para la venta,1046381,3,2,1.76,Calle Alcalá 37,Palma,Andalucía,77165,436,2023-08-09,2399.956422018349
+RE/MAX,lista para la venta,1131178,4,2,0.92,Calle Serrano 33,Alicante,Murcia,96968,461,2024-05-09,2453.7483731019524
+Century 21,lista para construir,1125051,4,3,1.39,Calle Serrano 143,Córdoba,Valencia,15217,430,2024-03-13,2616.3976744186048
+Berkshire Hathaway,lista para la venta,506488,5,4,0.65,Avenida de la Constitución 132,Alicante,Cataluña,67079,163,2025-03-29,3107.288343558282
+Century 21,lista para construir,723926,4,3,1.5,Calle Serrano 75,Vigo,Andalucía,17965,260,2023-06-23,2784.3307692307694
+Coldwell Banker,lista para la venta,1020027,3,2,1.96,Ronda de Valencia 161,Sevilla,Castilla-La Mancha,90144,348,2024-02-15,2931.112068965517
+Realty One,lista para construir,502972,2,2,1.46,Calle Serrano 31,Gijón,Aragón,56203,154,2024-04-06,3266.051948051948
+Keller Williams,lista para la venta,927050,1,1,1.96,Calle Mayor 143,Murcia,Aragón,55137,382,2025-03-28,2426.832460732984
+eXp Realty,lista para construir,869155,4,3,0.58,Plaza España 198,Gijón,Valencia,41801,336,2025-01-20,2586.7708333333335

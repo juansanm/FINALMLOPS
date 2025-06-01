@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mlflow
+pydantic
+boto3
+prometheus-fastapi-instrumentator

@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Airflow
+AIRFLOW/logs/
+AIRFLOW/airflow.db
+AIRFLOW/airflow-webserver.pid
+
+# Otros
+.env
+*.sqlite
+*.db

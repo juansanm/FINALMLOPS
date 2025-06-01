@@ -1,0 +1,214 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:14
+    container_name: mlops-postgres
+    environment:
+      POSTGRES_USER: mlflow
+      POSTGRES_PASSWORD: mlflow
+      POSTGRES_DB: mlflow_db
+    volumes:
+      - mlops_pgdata:/var/lib/postgresql/data
+      - ./postgres-init:/docker-entrypoint-initdb.d
+    restart: always
+    networks:
+      - mlops
+
+  airflow-init:
+    build:
+      context: ./AIRFLOW
+    container_name: airflow-init
+    user: "50000:0"  # Airflow user
+    entrypoint: >
+      bash -c "airflow db upgrade &&
+               airflow users create --username airflow --firstname Airflow --lastname Admin --role Admin --password airflow --email admin@example.com"
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://mlflow:mlflow@postgres:5432/airflow
+      - MLFLOW_S3_ENDPOINT_URL=http://minio:9000
+      - AWS_ACCESS_KEY_ID=mlflow
+      - AWS_SECRET_ACCESS_KEY=mlflow123
+      - AWS_DEFAULT_REGION=us-east-1
+    volumes:
+      - ./AIRFLOW:/opt/airflow
+      - ./AIRFLOW/dags:/opt/airflow/dags
+    depends_on:
+      - postgres
+    networks:
+      - mlops
+
+  airflow-webserver:
+    build:
+      context: ./AIRFLOW
+    container_name: airflow-webserver
+    restart: always
+    user: "50000:0"  # Airflow user
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=SequentialExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://mlflow:mlflow@postgres:5432/airflow
+      - MLFLOW_S3_ENDPOINT_URL=http://minio:9000
+      - AWS_ACCESS_KEY_ID=mlflow
+      - AWS_SECRET_ACCESS_KEY=mlflow123
+      - AWS_DEFAULT_REGION=us-east-1
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - ./AIRFLOW:/opt/airflow
+      - ./AIRFLOW/dags:/opt/airflow/dags
+    ports:
+      - "8080:8080"
+    depends_on:
+      - airflow-init
+    command: webserver
+    networks:
+      - mlops
+
+  airflow-scheduler:
+    build:
+      context: ./AIRFLOW
+    container_name: airflow-scheduler
+    restart: always
+    user: "50000:0"  # Airflow user
+    environment:
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://mlflow:mlflow@postgres:5432/airflow
+      - MLFLOW_S3_ENDPOINT_URL=http://minio:9000
+      - AWS_ACCESS_KEY_ID=mlflow
+      - AWS_SECRET_ACCESS_KEY=mlflow123
+      - AWS_DEFAULT_REGION=us-east-1
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - ./AIRFLOW:/opt/airflow
+      - ./AIRFLOW/dags:/opt/airflow/dags
+    depends_on:
+      - airflow-webserver
+    command: scheduler
+    networks:
+      - mlops
+
+  mlflow:
+    build:
+      context: ./MLFLOW
+    container_name: mlops-mlflow
+    restart: always
+    ports:
+      - "5151:5000"
+    volumes:
+      - ./MLFLOW/mlruns:/mlflow/mlruns
+    environment:
+      - AWS_ACCESS_KEY_ID=mlflow
+      - AWS_SECRET_ACCESS_KEY=mlflow123
+      - AWS_DEFAULT_REGION=us-east-1
+      - MLFLOW_S3_ENDPOINT_URL=http://minio:9000
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    command: >
+      mlflow server
+      --backend-store-uri=postgresql://mlflow:mlflow@postgres:5432/mlflow_db
+      --default-artifact-root=s3://mlflow-artifacts/
+      --host=0.0.0.0
+      --port=5000
+    depends_on:
+      - postgres
+      - minio
+    networks:
+      - mlops
+
+  fastapi:
+    build:
+      context: ./FASTAPI
+    container_name: mlops-fastapi
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+      - AWS_ACCESS_KEY_ID=mlflow
+      - AWS_SECRET_ACCESS_KEY=mlflow123
+      - AWS_DEFAULT_REGION=us-east-1
+      - MLFLOW_S3_ENDPOINT_URL=http://minio:9000
+    depends_on:
+      - mlflow
+    networks:
+      - mlops
+
+  data-generator:
+    build:
+      context: ./INGESTA
+    container_name: mlops-data-generator
+    restart: no
+    volumes:
+      - ./AIRFLOW:/output
+    command: python ingesta.py
+    working_dir: /app
+    networks:
+      - mlops
+
+  minio:
+    image: minio/minio:latest
+    container_name: mlops-minio
+    command: server /data --console-address ":9001"
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: mlflow
+      MINIO_ROOT_PASSWORD: mlflow123
+    volumes:
+      - minio_data:/data
+    networks:
+      - mlops
+
+  minio-client:
+    image: minio/mc
+    container_name: mc-mlflow-init
+    depends_on:
+      - minio
+    entrypoint: >
+      /bin/sh -c "
+        sleep 15 &&
+        mc alias set local http://minio:9000 mlflow mlflow123 &&
+        mc mb -p local/mlflow-artifacts || true &&
+        echo 'MinIO bucket mlflow-artifacts created successfully'
+      "
+    networks:
+      - mlops
+  streamlit:
+    build:
+      context: ./STREAMLIT
+    container_name: mlops-streamlit
+    ports:
+      - "8501:8501"
+    depends_on:
+      - fastapi
+    networks:
+      - mlops
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: mlops-prometheus
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    depends_on:
+      - fastapi
+    networks:
+      - mlops
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: mlops-grafana
+    ports:
+      - "3000:3000"
+    depends_on:
+      - prometheus
+    networks:
+      - mlops
+    volumes:
+      - grafana_data:/var/lib/grafana
+
+  
+volumes:
+  mlops_pgdata:
+  minio_data:
+  grafana_data:
+
+networks:
+  mlops:
