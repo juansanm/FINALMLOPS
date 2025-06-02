@@ -36,6 +36,7 @@ Este proyecto implementa un pipeline completo de MLOps en Kubernetes con entrena
 
 
 CI/CD con Argo CD
-El directorio k8s/ está sincronizado con Argo CD para despliegue GitOps. Cualquier cambio que hagas en este folder será reflejado en el clúster con solo hacer push.
+El directorio k8s/ está sincronizado con Argo CD para despliegue GitOps. Cualquier cambio que usted haga en este folder será reflejado en el clúster con solo hacer push.
 
-✍️ Autor
+✍️ Autor Juan Felipe Gonzalez Sanmiguel 
+
