@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlops-fastapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlops-fastapi
+  template:
+    metadata:
+      labels:
+        app: mlops-fastapi
+    spec:
+      containers:
+        - name: fastapi
+          image: juansanm/mlops-fastapi:latest
+          ports:
+            - containerPort: 8000
+          env:
+            - name: MLFLOW_TRACKING_URI
+              value: "http://host.minikube.internal:5151"
+            - name: MLFLOW_S3_ENDPOINT_URL
+              value: "http://host.minikube.internal:9000"
+            - name: AWS_ACCESS_KEY_ID
+              value: "mlflow"          
+            - name: AWS_SECRET_ACCESS_KEY
+              value: "mlflow123" 
